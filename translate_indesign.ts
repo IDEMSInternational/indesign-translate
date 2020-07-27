@@ -3,8 +3,11 @@ import * as path from "path";
 import { parse, j2xParser as JS2XMLParser, getTraversalObj } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
 import * as rimraf from "rimraf";
-import { removeForbiddenCharacters, extractStoryMap } from "./shared_functions";
+import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread } from "./shared_functions";
 
+let inputFilePath = "./input/en.idml";
+let translateJSONPath = "./translate_json";
+let tempPath = "./temp";
 let languageCodes = ["es"];
 
 rimraf("./temp", (err) => {
@@ -14,7 +17,7 @@ rimraf("./temp", (err) => {
     console.log("Removed temp directory");
     fs.mkdirSync("./temp");
     console.log("Created new temp directory");
-    
+
     translateIDML();
 });
 
@@ -57,20 +60,32 @@ function translateIDML() {
 
 function translateStoriesXML(folder: string, langCode: string) {
     const storiesPath = path.join(folder, "Stories");
-    fs.readdirSync(storiesPath).forEach((storyFile) => {
-        // console.log("Story file ", storyFile);
-        const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
-        let modifiedXML = removeForbiddenCharacters(storyFileContents);
-        let translateMapString = fs.readFileSync(path.join("./translate_json", langCode + ".json")).toString();
-        let translateMap: { [en: string]: string } = JSON.parse(translateMapString);
-        let storyTranslateMap = extractStoryMap(storyFileContents);
-        Object.keys(storyTranslateMap).forEach((key) => {
-            if (translateMap[key]) {
-                modifiedXML = modifiedXML.replace(key, translateMap[key]);
-            } else {
-                console.warn("Missing translation for ", key);
-            }
-        })
-        fs.writeFileSync(path.join(storiesPath, storyFile), modifiedXML, { flag: "w+" });
+    const spreadsPath = path.join(folder, "Spreads");
+    fs.readdirSync(spreadsPath).forEach((spreadFile) => {
+        const spreadId = spreadFile.replace("Spread_", "").replace(".xml", "");
+        const spreadFilePath = path.join(spreadsPath, spreadFile);
+        const spreadFileContents = fs.readFileSync(spreadFilePath).toString();
+        const storyIds = getStoriesForSpread(spreadFileContents);
+        let spreadTranslateMap = {};
+        try {
+            spreadTranslateMap = JSON.parse(fs.readFileSync(path.join(translateJSONPath, langCode, spreadId + ".json")).toString());
+        } catch (ex) {
+            console.log("Missing translation file for spread id ", spreadId, "for language ", langCode);
+            return;
+        }
+        storyIds.forEach((storyId) => {
+            let storyFile = `Story_${storyId}.xml`;
+            const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
+            let modifiedXML = removeForbiddenCharacters(storyFileContents);
+            let storyTranslateMap = extractStoryMap(storyFileContents);
+            Object.keys(storyTranslateMap).forEach((key) => {
+                if (spreadTranslateMap[key]) {
+                    modifiedXML = modifiedXML.replace(key, spreadTranslateMap[key]);
+                } else {
+                    console.warn("Missing translation for ", key);
+                }
+            })
+            fs.writeFileSync(path.join(storiesPath, storyFile), modifiedXML, { flag: "w+" });
+        });
     });
 }

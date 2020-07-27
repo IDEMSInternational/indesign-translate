@@ -3,7 +3,7 @@ import * as path from "path";
 import { parse, j2xParser as JS2XMLParser } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
 import * as rimraf from "rimraf";
-import { extractStoryMap } from "./shared_functions";
+import { extractStoryMap, getStoriesForSpread } from "./shared_functions";
 
 let inputFilePath = "./input/en.idml";
 let translateJSONPath = "./translate_json";
@@ -19,7 +19,7 @@ rimraf(tempPath, (err) => {
 });
 
 function generateEnglishJSON() {
-    
+
     console.log("Extracting English IDML");
     const inputZip = new AdmZip(inputFilePath);
     const tempEnPath = path.join(tempPath, "en");
@@ -28,20 +28,40 @@ function generateEnglishJSON() {
     }
     inputZip.extractAllTo(tempEnPath);
 
-    const docTranslateMap = {};
-    const storiesPath = path.join(tempEnPath, "Stories");
-    fs.readdirSync(storiesPath).forEach((storyFile) => {
-        const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
-        
-        let storyTranslateMap = extractStoryMap(storyFileContents);
-        // console.log(storyTranslateMap);
-        Object.keys(storyTranslateMap).forEach((key, idx) => {
-            console.log(storyFile + "\t" + idx + "\t" + key);
-            docTranslateMap[key] = key;
-        });
-    });
     if (!fs.existsSync(translateJSONPath)) {
         fs.mkdirSync(translateJSONPath);
     }
-    fs.writeFileSync(path.join(translateJSONPath, "en.json"), JSON.stringify(docTranslateMap, null, 4));
+
+    if (!fs.existsSync(path.join(translateJSONPath, "en"))) {
+        fs.mkdirSync(path.join(translateJSONPath, "en"));
+    }
+
+    const spreadsPath = path.join(tempEnPath, "Spreads");
+    const storiesPath = path.join(tempEnPath, "Stories");
+    // const storyIdsBySpreadFile: { [ spreadFile: string]: string[] } = {};
+    fs.readdirSync(spreadsPath).forEach((spreadFile) => {
+        const spreadId = spreadFile.replace("Spread_", "").replace(".xml", "");
+        const spreadFilePath = path.join(spreadsPath, spreadFile)
+        const spreadFileContents = fs.readFileSync(spreadFilePath).toString();
+        const storyIds = getStoriesForSpread(spreadFileContents);
+        let spreadTranslateMap = {};
+        storyIds.forEach((storyId) => {
+            let storyFile = `Story_${storyId}.xml`;
+            const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
+            let storyTranslateMap = extractStoryMap(storyFileContents);
+            Object.keys(storyTranslateMap).forEach((key, idx) => {
+                console.log(spreadFile + "\t" + idx + "\t" + key);
+                spreadTranslateMap[key] = key;
+            });
+        });
+        fs.writeFileSync(path.join(translateJSONPath, "en", spreadId + ".json"), JSON.stringify(spreadTranslateMap, null, 4));
+    });
+
+    fs.readdirSync(storiesPath).forEach((storyFile) => {
+        const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
+
+
+    });
+    
+    
 }

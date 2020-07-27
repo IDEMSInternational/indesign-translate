@@ -1,4 +1,5 @@
 import { parse } from "fast-xml-parser";
+import * as fs from "fs";
 
 export function removeForbiddenCharacters(str: string) {
     return str.replace("\u2028", "");  // Remove Line Seperator character
@@ -37,4 +38,21 @@ export function extractStoryMap(storyFileContents: string): { [en: string]: stri
         });
     }
     return storyTranslateMap;
+}
+
+export function getStoriesForSpread(spreadFileContents: string): string[] {
+    let tagStartString = `<TextFrame Self="`;
+    let tagStringToParentStory = `<TextFrame Self="u1234" ParentStory="`;
+    let storyIdMap = {};
+    spreadFileContents.split("\n").forEach((line) => {
+        let index = line.indexOf(tagStartString);
+        if (index > -1) {
+            let storyId = "";
+            for (var i = index + tagStringToParentStory.length; i < line.length && line[i] !== `"`; i++) {
+                storyId += line[i];
+            }
+            storyIdMap[storyId] = "";
+        }
+    });
+    return Object.keys(storyIdMap);
 }
