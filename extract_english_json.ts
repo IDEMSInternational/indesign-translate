@@ -29,7 +29,7 @@ function generateEnglishJSON() {
     inputZip.extractAllTo(tempEnPath);
 
     const docTranslateMap = {};
-    const storiesPath = path.join(tempPath, "Stories");
+    const storiesPath = path.join(tempEnPath, "Stories");
     fs.readdirSync(storiesPath).forEach((storyFile) => {
         const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
         
