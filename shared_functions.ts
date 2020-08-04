@@ -2,7 +2,9 @@ import { parse } from "fast-xml-parser";
 import * as fs from "fs";
 
 export function removeForbiddenCharacters(str: string) {
-    return str.replace("\u2028", "");  // Remove Line Seperator character
+    return str
+        .replace("\u2028", "") // Remove Line Seperator character
+        .replace("\u2029", "") // Remove Paragraph Seperator character
 }
 
 export function storyXMLNullCheck(storyXmlParsed): boolean {
@@ -39,6 +41,17 @@ export function extractStoryMap(storyFileContents: string): { [en: string]: stri
     }
     return storyTranslateMap;
 }
+
+/*
+export function getSpreadIdsInOrder() {
+    const designMapFileContents = fs.readFileSync(path.join(tempEnPath, "designmap.xml")).toString();
+    const designMapParsed = parse(designMapFileContents, { ignoreAttributes: false });
+    const designMapSpreads: any[] = designMapParsed.Document["idPkg:Spread"];
+    const spreadIdsInOrder = designMapSpreads.map((spread) => { 
+        const spreadFilePath: string = spread["@_src"];
+        return spreadFilePath.replace("Spreads/Spread_", "").replace(".xml", "");
+    });
+} */
 
 export function getStoriesForSpread(spreadFileContents: string): string[] {
     let tagStartString = `<TextFrame Self="`;
