@@ -3,7 +3,7 @@ import * as path from "path";
 import { parse, j2xParser as JS2XMLParser } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
 import * as rimraf from "rimraf";
-import { extractStoryMap, getStoriesForSpread, removeForbiddenCharacters } from "./shared_functions";
+import { extractStoryMap, getStoriesForSpread, removeForbiddenCharacters, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry } from "./shared_functions";
 
 let inputFilePath = "./input/en.idml";
 let translateJSONPath = "./translate_json";
@@ -36,13 +36,7 @@ function generateEnglishJSON() {
         fs.mkdirSync(path.join(translateJSONPath, "en"));
     }
 
-    const designMapFileContents = fs.readFileSync(path.join(tempEnPath, "designmap.xml")).toString();
-    const designMapParsed = parse(designMapFileContents, { ignoreAttributes: false });
-    const designMapSpreads: any[] = designMapParsed.Document["idPkg:Spread"];
-    const spreadIdsInOrder = designMapSpreads.map((spread) => { 
-        const spreadFilePath: string = spread["@_src"];
-        return spreadFilePath.replace("Spreads/Spread_", "").replace(".xml", "");
-    });
+    const spreadIdsInOrder = getSpreadIdsInOrder(tempEnPath);
 
     const spreadsPath = path.join(tempEnPath, "Spreads");
     const storiesPath = path.join(tempEnPath, "Stories");
@@ -62,15 +56,17 @@ function generateEnglishJSON() {
                 spreadTranslateMap[key] = key;
             });
         });
-        const translateStructure = [];
+        const translateStructure: TranslationEntry[] = [];
         Object.keys(spreadTranslateMap).forEach((key, idx) => {
-            translateStructure.push({
+            const entry: TranslationEntry = {
+                sourceText: removeForbiddenCharacters(key), 
                 text: removeForbiddenCharacters(key),
                 note: ""
-            });
+            };
+            translateStructure.push(entry);
         });
-        const pageNumber = spreadIdsInOrder.indexOf(spreadId) + 1;
-        fs.writeFileSync(path.join(translateJSONPath, "en", `page-${pageNumber}.json`), JSON.stringify(translateStructure, null, 4));
+        const pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
+        fs.writeFileSync(path.join(translateJSONPath, "en", pageFileName), JSON.stringify(translateStructure, null, 4));
     });
 
     fs.readdirSync(storiesPath).forEach((storyFile) => {

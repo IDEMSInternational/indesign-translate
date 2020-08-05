@@ -1,5 +1,12 @@
 import { parse } from "fast-xml-parser";
 import * as fs from "fs";
+import * as path from "path";
+
+export interface TranslationEntry {
+    sourceText: string;
+    text: string;
+    note?: string;
+}
 
 export function removeForbiddenCharacters(str: string) {
     return str
@@ -42,16 +49,20 @@ export function extractStoryMap(storyFileContents: string): { [en: string]: stri
     return storyTranslateMap;
 }
 
-/*
-export function getSpreadIdsInOrder() {
-    const designMapFileContents = fs.readFileSync(path.join(tempEnPath, "designmap.xml")).toString();
+export function getSpreadIdsInOrder(tempPath: string) {
+    const designMapFileContents = fs.readFileSync(path.join(tempPath, "designmap.xml")).toString();
     const designMapParsed = parse(designMapFileContents, { ignoreAttributes: false });
     const designMapSpreads: any[] = designMapParsed.Document["idPkg:Spread"];
     const spreadIdsInOrder = designMapSpreads.map((spread) => { 
         const spreadFilePath: string = spread["@_src"];
         return spreadFilePath.replace("Spreads/Spread_", "").replace(".xml", "");
     });
-} */
+    return spreadIdsInOrder;
+}
+
+export function pageFileNameForSpreadId(spreadIdsInOrder: string[], spreadId: string) {
+    return `page-${spreadIdsInOrder.indexOf(spreadId) + 1}.json`;
+}
 
 export function getStoriesForSpread(spreadFileContents: string): string[] {
     let tagStartString = `<TextFrame Self="`;

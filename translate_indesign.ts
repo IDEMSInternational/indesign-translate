@@ -3,44 +3,44 @@ import * as path from "path";
 import { parse, j2xParser as JS2XMLParser, getTraversalObj } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
 import * as rimraf from "rimraf";
-import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread } from "./shared_functions";
+import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry } from "./shared_functions";
 
 let inputFilePath = "./input/en.idml";
 let translateJSONPath = "./translate_json";
 let tempPath = "./temp";
 let languageCodes = ["es"];
 
-rimraf("./temp", (err) => {
+rimraf(tempPath, (err) => {
     if (err) {
         console.error("Error removing temp directory");
     }
     console.log("Removed temp directory");
-    fs.mkdirSync("./temp");
+    fs.mkdirSync(tempPath);
     console.log("Created new temp directory");
 
     translateIDML();
 });
 
 function translateIDML() {
-    let inputZip = new AdmZip("./input/en.idml");
+    let inputZip = new AdmZip(inputFilePath);
     for (let langCode of languageCodes) {
-        const tempPath = `./temp/${langCode}`;
-        if (!fs.existsSync(tempPath)) {
-            fs.mkdirSync(tempPath);
+        const tempPathTranslated = path.join(tempPath, langCode);
+        if (!fs.existsSync(tempPathTranslated)) {
+            fs.mkdirSync(tempPathTranslated);
         }
 
         // Extract contents of input InDesign into temporary folder
         console.log("Extracting English IDML into temp folder for ", langCode);
-        inputZip.extractAllTo(tempPath);
+        inputZip.extractAllTo(tempPathTranslated);
 
         // Do actual translation
-        translateStoriesXML(tempPath, langCode);
+        translateStoriesXML(tempPathTranslated, langCode);
 
         // Combine files back into ZIP file for output InDesign Markup file
         const outputZip = new AdmZip();
-        fs.readdirSync(tempPath).forEach((file) => {
+        fs.readdirSync(tempPathTranslated).forEach((file) => {
             try {
-                var filePath = path.join(tempPath, file);
+                var filePath = path.join(tempPathTranslated, file);
                 if (fs.statSync(filePath).isDirectory()) {
                     outputZip.addLocalFolder(filePath, file);
                 } else {
@@ -61,6 +61,7 @@ function translateIDML() {
 function translateStoriesXML(folder: string, langCode: string) {
     const storiesPath = path.join(folder, "Stories");
     const spreadsPath = path.join(folder, "Spreads");
+    const spreadIdsInOrder = getSpreadIdsInOrder(folder);
     fs.readdirSync(spreadsPath).forEach((spreadFile) => {
         const spreadId = spreadFile.replace("Spread_", "").replace(".xml", "");
         const spreadFilePath = path.join(spreadsPath, spreadFile);
@@ -68,7 +69,12 @@ function translateStoriesXML(folder: string, langCode: string) {
         const storyIds = getStoriesForSpread(spreadFileContents);
         let spreadTranslateMap = {};
         try {
-            spreadTranslateMap = JSON.parse(fs.readFileSync(path.join(translateJSONPath, langCode, spreadId + ".json")).toString());
+            const pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
+            const pageFilePath = path.join(translateJSONPath, langCode, pageFileName);
+            const spreadTranslateFile: TranslationEntry[] = JSON.parse(fs.readFileSync(pageFilePath).toString());
+            for (let entry of spreadTranslateFile) {
+                spreadTranslateMap[entry.sourceText] = entry.text;
+            }
         } catch (ex) {
             console.log("Missing translation file for spread id ", spreadId, "for language ", langCode);
             return;
