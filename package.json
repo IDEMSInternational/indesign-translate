@@ -2,9 +2,6 @@
   "name": "tip-sheet-translate",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": "12.0.0"
-  },
   "main": "index.js",
   "scripts": {
     "extract": "ts-node extract_english_json.ts",
