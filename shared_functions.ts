@@ -27,24 +27,33 @@ export function storyXMLNullCheck(storyXmlParsed): boolean {
 export function extractStoryMap(storyFileContents: string): { [en: string]: string } {
     const storyXmlParsed = parse(storyFileContents, { arrayMode: true });
     let storyTranslateMap = {};
+    let lastPsr;
     if (storyXMLNullCheck(storyXmlParsed)) {
-        storyXmlParsed["idPkg:Story"][0].Story[0].ParagraphStyleRange.forEach((psr) => {
-            if (psr.CharacterStyleRange && psr.CharacterStyleRange.length > 0) {
-                psr.CharacterStyleRange.forEach((csr) => {
-                    if (csr.Content) {
-                        if (typeof csr.Content === "string") {
-                            let str = removeForbiddenCharacters(csr.Content);
-                            storyTranslateMap[str] = str;
-                        } else {
-                            csr.Content.forEach((str) => {
-                                str = removeForbiddenCharacters(str);
+        try {
+            storyXmlParsed["idPkg:Story"][0].Story[0].ParagraphStyleRange.forEach((psr) => {
+                lastPsr = psr;
+                if (psr.CharacterStyleRange && psr.CharacterStyleRange.length > 0) {
+                    psr.CharacterStyleRange.forEach((csr) => {
+                        if (csr.Content) {
+                            if (typeof csr.Content === "string" || typeof csr.Content === "number") {
+                                let str = removeForbiddenCharacters(csr.Content + "");
                                 storyTranslateMap[str] = str;
-                            });
+                            } else if (Array.isArray(csr.Content)) {
+                                csr.Content.forEach((str) => {
+                                    str = removeForbiddenCharacters(str);
+                                    storyTranslateMap[str] = str;
+                                });
+                            }
                         }
-                    }
-                });
-            }
-        });
+                    });
+                }
+            });
+        } catch (ex) {
+            console.warn("Error parsing story at paragraph style range");
+            console.warn(JSON.stringify(lastPsr, null, 4));
+            console.debug(ex);
+        }
+        
     }
     return storyTranslateMap;
 }
@@ -66,13 +75,14 @@ export function pageFileNameForSpreadId(spreadIdsInOrder: string[], spreadId: st
 
 export function getStoriesForSpread(spreadFileContents: string): string[] {
     let tagStartString = `<TextFrame Self="`;
-    let tagStringToParentStory = `<TextFrame Self="u1234" ParentStory="`;
+    
     let storyIdMap = {};
     spreadFileContents.split("\n").forEach((line) => {
         let index = line.indexOf(tagStartString);
-        if (index > -1) {
+        if (index > -1 && line.indexOf(`ParentStory="`)) {
+            let afterParentStoryIndex = line.indexOf(`ParentStory="`) + `ParentStory="`.length;
             let storyId = "";
-            for (var i = index + tagStringToParentStory.length; i < line.length && line[i] !== `"`; i++) {
+            for (var i = afterParentStoryIndex; i < line.length && line[i] !== `"`; i++) {
                 storyId += line[i];
             }
             storyIdMap[storyId] = "";
