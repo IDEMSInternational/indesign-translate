@@ -34,6 +34,11 @@ export function extractStoryMap(storyFileContents: string): { [en: string]: stri
                 lastPsr = psr;
                 if (psr.CharacterStyleRange && psr.CharacterStyleRange.length > 0) {
                     psr.CharacterStyleRange.forEach((csr) => {
+                        if (csr.HyperlinkTextSource && csr.HyperlinkTextSource[0] && csr.HyperlinkTextSource[0].Content
+                            && typeof csr.HyperlinkTextSource[0].Content === "string") {
+                            let str = removeForbiddenCharacters(csr.HyperlinkTextSource[0].Content + "");
+                            storyTranslateMap[str] = str;
+                        }
                         if (csr.Content) {
                             if (typeof csr.Content === "string" || typeof csr.Content === "number") {
                                 let str = removeForbiddenCharacters(csr.Content + "");
