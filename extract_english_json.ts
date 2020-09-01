@@ -6,6 +6,7 @@ import * as rimraf from "rimraf";
 import { extractStoryMap, getStoriesForSpread, removeForbiddenCharacters, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry } from "./shared_functions";
 
 let inputFilePath = "./input/en.idml";
+let versionedEnglishJSONDirectory = "./versioned_english_json";
 let translateJSONPath = "./translate_json";
 let tempPath = "./temp";
 
@@ -66,7 +67,8 @@ function generateEnglishJSON() {
             translateStructure.push(entry);
         });
         const pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
-        fs.writeFileSync(path.join(translateJSONPath, "en", pageFileName), JSON.stringify(translateStructure, null, 4));
+        fs.writeFileSync(path.join(versionedEnglishJSONDirectory, pageFileName), JSON.stringify(translateStructure, null, 4));
+        fs.writeFileSync(path.join(translateJSONPath, "en", pageFileName), JSON.stringify(translateStructure, null, 4)); 
     });
 
     fs.readdirSync(storiesPath).forEach((storyFile) => {
