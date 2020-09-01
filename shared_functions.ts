@@ -10,7 +10,7 @@ export interface TranslationEntry {
 
 export function removeForbiddenCharacters(str: string) {
     return str
-        .replace("\u2028", "") // Remove Line Seperator character 349ifwie9i
+        .replace("\u2028", "") // Remove Line Seperator character
         .replace("\u2029", "") // Remove Paragraph Seperator character
 }
 
@@ -67,7 +67,7 @@ export function getSpreadIdsInOrder(tempPath: string) {
     const designMapFileContents = fs.readFileSync(path.join(tempPath, "designmap.xml")).toString();
     const designMapParsed = parse(designMapFileContents, { ignoreAttributes: false });
     const designMapSpreads: any[] = designMapParsed.Document["idPkg:Spread"];
-    const spreadIdsInOrder = designMapSpreads.map((spread) => { 
+    const spreadIdsInOrder = designMapSpreads.map((spread) => {
         const spreadFilePath: string = spread["@_src"];
         return spreadFilePath.replace("Spreads/Spread_", "").replace(".xml", "");
     });
