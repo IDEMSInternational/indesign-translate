@@ -10,7 +10,7 @@ export interface TranslationEntry {
 
 export function removeForbiddenCharacters(str: string) {
     return str
-        .replace("\u2028", "") // Remove Line Seperator character
+        .replace("\u2028", "") // Remove Line Seperator illegal character
         .replace("\u2029", "") // Remove Paragraph Seperator character
 }
 
