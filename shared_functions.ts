@@ -10,8 +10,8 @@ export interface TranslationEntry {
 
 export function removeForbiddenCharacters(str: string) {
     return str
-        .replace("\u2028", "") 
-        .replace("\u2029", "");
+        .replace("\u2028", "") // Remove Line Seperator character
+        .replace("\u2029", ""); // Remove Paragraph Seperator character
 }
 
 export function storyXMLNullCheck(storyXmlParsed): boolean {
