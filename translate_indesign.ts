@@ -3,27 +3,60 @@ import * as path from "path";
 import { parse, j2xParser as JS2XMLParser, getTraversalObj } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
 import * as rimraf from "rimraf";
-import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry } from "./shared_functions";
+import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry, getIDMLFilePathForName } from "./shared_functions";
+import * as ncp from "ncp";
 
-let inputFilePath = "./input/en.idml";
+let inputFolder = "./input";
+let outputFolder = "./output";
 let translateJSONPath = "./translate_json";
-let tempPath = "./temp";
+let tempFolder = "./temp";
 let languageCodes = ["es"];
 
-rimraf(tempPath, (err) => {
+rimraf(tempFolder, (err) => {
     if (err) {
         console.error("Error removing temp directory");
     }
     console.log("Removed temp directory");
-    fs.mkdirSync(tempPath);
+    fs.mkdirSync(tempFolder);
+    
     console.log("Created new temp directory");
 
-    translateIDML();
+    fs.readdirSync(inputFolder).forEach((idmlName) => {
+        let inputSubPath = path.join(inputFolder, idmlName);
+        if (fs.statSync(inputSubPath).isDirectory()) {
+            const outputSubPath = path.join(outputFolder, idmlName);
+            rimraf(outputSubPath, (err) => {
+                ncp(path.join(inputFolder, idmlName), path.join(outputFolder, idmlName), (err) => {
+                    translateIDML(idmlName);
+                });
+            });
+        }
+    });
 });
 
-function translateIDML() {
+function translateIDML(idmlName: string) {
+
+    // Create temp path for extracted contents of this IDML file
+    const tempPath = path.join(tempFolder, idmlName);
+    if (!fs.existsSync(tempPath)) {
+        fs.mkdirSync(tempPath);
+    }
+
+    // Create output folder for this IDML file
+    const outputSubPath = path.join(outputFolder, idmlName);
+    if (!fs.existsSync(outputSubPath)) {
+        fs.mkdirSync(outputSubPath);
+    }
+    
+    let inputFilePath = getIDMLFilePathForName(inputFolder, idmlName);
+    if (inputFilePath === null) {
+        console.warn("Could not find IDML file for ", idmlName);
+        return;
+    }
     let inputZip = new AdmZip(inputFilePath);
+
     for (let langCode of languageCodes) {
+
         const tempPathTranslated = path.join(tempPath, langCode);
         if (!fs.existsSync(tempPathTranslated)) {
             fs.mkdirSync(tempPathTranslated);
@@ -51,9 +84,10 @@ function translateIDML() {
             }
 
         });
-        const outputPath = path.join("./output", langCode + ".idml");
-        console.log("Writing InDesign Markup File for ", langCode);
-        outputZip.writeZip(outputPath);
+        
+        const outputZipPath = path.join(outputSubPath, langCode + ".idml");
+        console.log("Writing InDesign Markup File for ", idmlName, "for language code ", langCode);
+        outputZip.writeZip(outputZipPath);
         // rimraf(tempPath, (err) => {});
     }
 }

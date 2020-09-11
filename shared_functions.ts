@@ -95,3 +95,17 @@ export function getStoriesForSpread(spreadFileContents: string): string[] {
     });
     return Object.keys(storyIdMap);
 }
+
+export function getIDMLFilePathForName(inputFolder: string, idmlName: string) {
+    let inputFilePath = path.join(inputFolder, idmlName, idmlName + ".idml");
+    if (!fs.existsSync(inputFilePath)) {
+        try {
+            var actualIDMLFilename = fs.readdirSync(path.join(inputFolder, idmlName)).filter((filename) => filename.endsWith(".idml"))[0];
+            inputFilePath = path.join(inputFolder, idmlName, actualIDMLFilename);
+        } catch (ex) {
+            console.warn("Cannot find any IDML file for folder ", path.join(inputFolder, idmlName));
+            inputFilePath = null;
+        }
+    }
+    return inputFilePath;
+}
