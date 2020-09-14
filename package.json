@@ -5,18 +5,24 @@
   "main": "index.js",
   "scripts": {
     "extract": "ts-node extract_english_json.ts",
-    "translate": "ts-node translate_indesign.ts"
+    "translate": "ts-node translate_indesign.ts",
+    "sheet-to-json": "ts-node sheet_to_json.ts"
   },
   "dependencies": {
     "@types/adm-zip": "^0.4.33",
-    "@types/rimraf": "^3.0.0",
+    "@types/ncp": "^2.0.4",
     "@types/node": "^12.0.0",
+    "@types/rimraf": "^3.0.0",
+    "@types/string-similarity": "^3.0.0",
     "adm-zip": "^0.4.16",
     "fast-xml-parser": "3.17.4",
+    "ncp": "^2.0.0",
     "pdf-lib": "^1.9.0",
     "rimraf": "^3.0.2",
+    "string-similarity": "^4.0.2",
     "ts-node": "^8.10.2",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.6",
+    "xlsx": "^0.16.6"
   },
   "author": "Michael Clapham",
   "license": "MIT"
