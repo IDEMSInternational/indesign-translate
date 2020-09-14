@@ -10,7 +10,6 @@ let inputFolder = "./input";
 let outputFolder = "./output";
 let translateJSONPath = "./translate_json";
 let tempFolder = "./temp";
-let languageCodes = ["es"];
 
 rimraf(tempFolder, (err) => {
     if (err) {
@@ -55,6 +54,9 @@ function translateIDML(idmlName: string) {
     }
     let inputZip = new AdmZip(inputFilePath);
 
+    let translateJSONSubPath = path.join(translateJSONPath, idmlName);
+    let languageCodes = fs.readdirSync(translateJSONSubPath).filter((langCode) => langCode !== "en");
+
     for (let langCode of languageCodes) {
 
         const tempPathTranslated = path.join(tempPath, langCode);
@@ -67,7 +69,7 @@ function translateIDML(idmlName: string) {
         inputZip.extractAllTo(tempPathTranslated);
 
         // Do actual translation
-        translateStoriesXML(tempPathTranslated, langCode);
+        translateStoriesXML(tempPathTranslated, langCode, idmlName);
 
         // Combine files back into ZIP file for output InDesign Markup file
         const outputZip = new AdmZip();
@@ -92,7 +94,7 @@ function translateIDML(idmlName: string) {
     }
 }
 
-function translateStoriesXML(folder: string, langCode: string) {
+function translateStoriesXML(folder: string, langCode: string, idmlName: string) {
     const storiesPath = path.join(folder, "Stories");
     const spreadsPath = path.join(folder, "Spreads");
     const spreadIdsInOrder = getSpreadIdsInOrder(folder);
@@ -102,15 +104,21 @@ function translateStoriesXML(folder: string, langCode: string) {
         const spreadFileContents = fs.readFileSync(spreadFilePath).toString();
         const storyIds = getStoriesForSpread(spreadFileContents);
         let spreadTranslateMap = {};
+        let pageFileName: string;
         try {
-            const pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
-            const pageFilePath = path.join(translateJSONPath, langCode, pageFileName);
+            pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
+            const pageFilePath = path.join(translateJSONPath, idmlName, langCode, pageFileName);
             const spreadTranslateFile: TranslationEntry[] = JSON.parse(fs.readFileSync(pageFilePath).toString());
             for (let entry of spreadTranslateFile) {
                 spreadTranslateMap[entry.sourceText] = entry.text;
             }
         } catch (ex) {
-            console.log("Missing translation file for spread id ", spreadId, "for language ", langCode);
+            if (pageFileName) {
+                console.log("In InDesign file ", idmlName, " Missing translation file for ", pageFileName, "for language ", langCode);
+            } else {
+                console.log("In InDesign file ", idmlName, " Missing translation file for spread id ", spreadId, "for language ", langCode);
+            }
+            
             return;
         }
         storyIds.forEach((storyId) => {
@@ -122,7 +130,7 @@ function translateStoriesXML(folder: string, langCode: string) {
                 if (spreadTranslateMap[key]) {
                     modifiedXML = modifiedXML.replace(key, spreadTranslateMap[key]);
                 } else {
-                    console.warn("Missing translation for ", key);
+                    console.warn("In InDesign file ", idmlName, "Missing translation for ", key);
                 }
             })
             fs.writeFileSync(path.join(storiesPath, storyFile), modifiedXML, { flag: "w+" });
