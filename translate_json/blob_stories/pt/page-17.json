@@ -1,0 +1,47 @@
+[
+    {
+        "sourceText": "If your child shares that someone has touched them in a way that they are not happy with, it is important to accept them and offer support.",
+        "text": "\nSe seu filho contar que alguém o tocou de uma maneira que não o deixou feliz, é importante aceitá-lo e oferecer apoio.",
+        "note": "Tagline:"
+    },
+    {
+        "sourceText": "What’s wrong, my dear? Come and sit by me and tell me what happened.",
+        "text": "\nO que há de errado, minha querida? Venha, sente-se ao meu lado e me conte o que aconteceu.",
+        "note": "Block 1: "
+    },
+    {
+        "sourceText": "It’s that man…he touched me…",
+        "text": "\nÉ aquele homem ... ele me tocou …",
+        "note": ""
+    },
+    {
+        "sourceText": "Take your time... I am listening.",
+        "text": "Não tenha pressa ... Estou ouvindo.",
+        "note": "Block 2: "
+    },
+    {
+        "sourceText": "… he held me down…told me I would be in trouble if I told anybody…",
+        "text": "... ele me segurou ... disse que eu teria problemas se contasse a alguém …",
+        "note": ""
+    },
+    {
+        "sourceText": "I believe you. You are not in trouble. It is not your fault. This is a big thing and we will find a way to get the help you need. I wonder where we can go for help…?",
+        "text": "Eu acredito em você. Você não está com problemas. Não é sua culpa. Isso é importante e encontraremos uma maneira de obter a ajuda de que você precisa. Eu me pergunto onde podemos ir para obter ajuda ...?",
+        "note": "Block 3: "
+    },
+    {
+        "sourceText": "The clinic? But could you come with me?",
+        "text": "A clínica? Mas você poderia vir comigo?",
+        "note": ""
+    },
+    {
+        "sourceText": "Yes, they will know what to do. Of course, I will come with you. Remember, this is not your fault. I love you and we will get through this.",
+        "text": "Sim, eles saberão o que fazer. Claro, eu irei com você. Lembre-se de que não é sua culpa. Eu te amo e vamos superar isso.",
+        "note": "Block 4:"
+    },
+    {
+        "sourceText": "Thanks so much.",
+        "text": "Muito Obrigada",
+        "note": ""
+    }
+]

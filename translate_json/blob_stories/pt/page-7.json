@@ -1,0 +1,27 @@
+[
+    {
+        "sourceText": "Even the best behaved children sometimes misbehave. Try to catch a difficult behaviour early and redirect your children’s attention to a positive behaviour. Praise them when they listen!...",
+        "text": "Mesmo as crianças mais bem comportadas às vezes se comportam mal. Tente detectar um comportamento difícil desde o início e redirecionar a atenção de seus filhos para um comportamento positivo. Elogie-os quando eles ouvirem! ",
+        "note": "Tagline:"
+    },
+    {
+        "sourceText": "Give it to me!",
+        "text": "\nMe dê isto! ",
+        "note": "Block 1: "
+    },
+    {
+        "sourceText": "I had it first!",
+        "text": "Eu peguei primeiro!",
+        "note": ""
+    },
+    {
+        "sourceText": "Sussie and Billy, come and help me prepare dinner. We are making your favourite dish!",
+        "text": "Sussie e Billy, venham me ajudar a preparar o jantar. Estamos preparando seu prato favorito!",
+        "note": "Block 3: "
+    },
+    {
+        "sourceText": "Thank you for helping me get these veggies clean for our dinner tonight!",
+        "text": "Obrigado por me ajudar a limpar esses vegetais para o jantar desta noite!",
+        "note": "Block 4: "
+    }
+]

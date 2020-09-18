@@ -1,0 +1,47 @@
+[
+    {
+        "sourceText": "If your child shares that someone has touched them in a way that they are not happy with, it is important to accept them and offer support.",
+        "text": "Si su hijo comparte que alguien lo ha tocado de una manera con la que no está contento, es importante aceptarlo y ofrecerle apoyo.",
+        "note": "Tagline:"
+    },
+    {
+        "sourceText": "What’s wrong, my dear? Come and sit by me and tell me what happened.",
+        "text": "¿Qué pasa, querida? Ven y siéntate a mi lado y cuéntame lo que pasó.",
+        "note": "Block 1: "
+    },
+    {
+        "sourceText": "It’s that man…he touched me…",
+        "text": "Es ese hombre ... me tocó …",
+        "note": ""
+    },
+    {
+        "sourceText": "Take your time... I am listening.",
+        "text": "\nTómate tu tiempo ... Te escucho.",
+        "note": "Block 2: "
+    },
+    {
+        "sourceText": "… he held me down…told me I would be in trouble if I told anybody…",
+        "text": "\n... me sujetó ... me dijo que estaría en problemas si se lo contaba a alguien …",
+        "note": ""
+    },
+    {
+        "sourceText": "I believe you. You are not in trouble. It is not your fault. This is a big thing and we will find a way to get the help you need. I wonder where we can go for help…?",
+        "text": "\nTe creo. No tienes problemas. No es tu culpa. Esto es muy importante y encontraremos la manera de obtener la ayuda que necesita. Me pregunto dónde podemos ir en busca de ayuda …",
+        "note": "Block 3: "
+    },
+    {
+        "sourceText": "The clinic? But could you come with me?",
+        "text": "¿La clínica? ¿Pero podrías venir conmigo?",
+        "note": ""
+    },
+    {
+        "sourceText": "Yes, they will know what to do. Of course, I will come with you. Remember, this is not your fault. I love you and we will get through this.",
+        "text": "Sí, sabrán qué hacer. Por supuesto, iré contigo. Recuerde, esto no es culpa suya. Te amo y superaremos esto.",
+        "note": "Block 4:"
+    },
+    {
+        "sourceText": "Thanks so much.",
+        "text": "Gracias",
+        "note": ""
+    }
+]
