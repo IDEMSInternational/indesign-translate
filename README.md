@@ -1,4 +1,4 @@
-# Tip Sheet Translate Utility
+# IDEMS InDesign Translate Utility
 
 This repository is for translating the InDesign files used to generated the Covid 19 parenting tip sheet PDFs.
 
