@@ -113,8 +113,9 @@ function translateStoriesXML(folder: string, langCode: string, idmlName: string)
         const spreadFilePath = path.join(spreadsPath, spreadFile);
         const spreadFileContents = fs.readFileSync(spreadFilePath).toString();
         const storyIds = getStoriesForSpread(spreadFileContents);
-        let spreadTranslateMap = {};
-        let perStoryTranslateMap = {};
+        let perStoryTranslateMap: { [storyId: string]: { [en: string]: string } } = {};
+        let nonStoryTranslateMap: { [en: string]: string } = {};
+        storyIds.forEach((storyId) => perStoryTranslateMap[storyId] = {});
         let pageFileName: string;
         let spreadTranslateEntries: TranslationEntry[] = [];
         try {
@@ -125,13 +126,20 @@ function translateStoriesXML(folder: string, langCode: string, idmlName: string)
                 if (entry.type === "html") {
                     let subEntries = htmlEntryToTextEntries(entry);
                     for (let subEntry of subEntries) {
-                        spreadTranslateMap[subEntry.sourceText] = subEntry.text;
+                        if (subEntry.storyId) {
+                            perStoryTranslateMap[subEntry.storyId][subEntry.sourceText] = subEntry.text;
+                        }
+                        nonStoryTranslateMap[subEntry.sourceText] = subEntry.text;
                     }
                 } else {
-                    spreadTranslateMap[entry.sourceText] = entry.text;
+                    if (entry.storyId) {
+                        perStoryTranslateMap[entry.storyId][entry.sourceText] = entry.text;
+                    }
+                    nonStoryTranslateMap[entry.sourceText] = entry.text;
                 }
             }
         } catch (ex) {
+            console.debug(ex);
             if (pageFileName) {
                 console.log("In InDesign file ", idmlName, " Missing translation file for ", pageFileName, "for language ", langCode);
             } else {
@@ -145,10 +153,13 @@ function translateStoriesXML(folder: string, langCode: string, idmlName: string)
             let modifiedXML = removeForbiddenCharacters(storyFileContents);
             let storyTranslateMap = extractStoryMap(storyFileContents);
             Object.keys(storyTranslateMap).forEach((key) => {
-                if (spreadTranslateMap[key]) {
-                    modifiedXML = modifiedXML.replace(key, spreadTranslateMap[key]);
+                if (perStoryTranslateMap[storyId][key]) {
+                    modifiedXML = modifiedXML.replace(key, perStoryTranslateMap[storyId][key]);
+                } else if (nonStoryTranslateMap[key]) {
+                    console.warn("Translation used but no story id ", key, nonStoryTranslateMap[key])
+                    modifiedXML.replace(key, nonStoryTranslateMap[key]);
                 } else {
-                    // console.warn("In InDesign file ", idmlName, "Missing translation for ", key);
+                    console.warn("In InDesign file ", idmlName, "Missing translation for ", key);
                 }
             })
             fs.writeFileSync(path.join(storiesPath, storyFile), modifiedXML, { flag: "w+" });

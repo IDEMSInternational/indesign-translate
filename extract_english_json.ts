@@ -77,7 +77,8 @@ function extractEnglishJSON(idmlName: string) {
                     sourceText: removeForbiddenCharacters(html),
                     text: removeForbiddenCharacters(html),
                     note: "",
-                    type: "html"
+                    type: "html",
+                    storyId: storyId
                 };
                 translateStructure.push(entry);
             } else {
@@ -86,7 +87,8 @@ function extractEnglishJSON(idmlName: string) {
                         sourceText: removeForbiddenCharacters(psr.content),
                         text: removeForbiddenCharacters(psr.content),
                         note: "",
-                        type: "text"
+                        type: "text",
+                        storyId: storyId
                     };
                     translateStructure.push(entry);
                 });
