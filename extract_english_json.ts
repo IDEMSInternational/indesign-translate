@@ -3,7 +3,7 @@ import * as path from "path";
 import { parse, j2xParser as JS2XMLParser } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
 import * as rimraf from "rimraf";
-import { extractStoryMap, getStoriesForSpread, removeForbiddenCharacters, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry, getIDMLFilePathForName } from "./shared_functions";
+import { extractStoryMap, getStoriesForSpread, removeForbiddenCharacters, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry, getIDMLFilePathForName, extractStoryPSRList, psrListToHTML } from "./shared_functions";
 import { exit } from "process";
 
 let inputFolder = "./input";
@@ -65,23 +65,32 @@ function extractEnglishJSON(idmlName: string) {
         const spreadFileContents = fs.readFileSync(spreadFilePath).toString();
         const storyIds = getStoriesForSpread(spreadFileContents);
         let spreadTranslateMap = {};
+        const translateStructure: TranslationEntry[] = [];
         storyIds.forEach((storyId) => {
             let storyFile = `Story_${storyId}.xml`;
             const storyFileContents = fs.readFileSync(path.join(storiesPath, storyFile)).toString();
-            let storyTranslateMap = extractStoryMap(storyFileContents);
-            Object.keys(storyTranslateMap).forEach((key, idx) => {
-                // console.log(spreadFile + "\t" + idx + "\t" + key);
-                spreadTranslateMap[key] = key;
-            });
-        });
-        const translateStructure: TranslationEntry[] = [];
-        Object.keys(spreadTranslateMap).forEach((key, idx) => {
-            const entry: TranslationEntry = {
-                sourceText: removeForbiddenCharacters(key),
-                text: removeForbiddenCharacters(key),
-                note: ""
-            };
-            translateStructure.push(entry);
+            const psrList = extractStoryPSRList(storyFileContents);
+            const hasLinks = psrList.filter((psr) => psr.type === "hyperlink").length > 0;
+            if (hasLinks) {
+                let html = psrListToHTML(psrList);
+                const entry: TranslationEntry = {
+                    sourceText: removeForbiddenCharacters(html),
+                    text: removeForbiddenCharacters(html),
+                    note: "",
+                    type: "html"
+                };
+                translateStructure.push(entry);
+            } else {
+                psrList.forEach((psr) => {
+                    const entry: TranslationEntry = {
+                        sourceText: removeForbiddenCharacters(psr.content),
+                        text: removeForbiddenCharacters(psr.content),
+                        note: "",
+                        type: "text"
+                    };
+                    translateStructure.push(entry);
+                });
+            }
         });
         const pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
         fs.writeFileSync(path.join(translateJSONPath, "en", pageFileName), JSON.stringify(translateStructure, null, 4)); 

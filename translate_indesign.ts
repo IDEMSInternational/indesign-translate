@@ -1,9 +1,8 @@
 import * as fs from "fs";
 import * as path from "path";
-import { parse, j2xParser as JS2XMLParser, getTraversalObj } from "fast-xml-parser";
 import * as AdmZip from "adm-zip";
-import * as rimraf from "rimraf";
-import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry, getIDMLFilePathForName } from "./shared_functions";
+import * as rmfr from "rmfr";
+import { removeForbiddenCharacters, extractStoryMap, getStoriesForSpread, getSpreadIdsInOrder, pageFileNameForSpreadId, TranslationEntry, getIDMLFilePathForName, htmlEntryToTextEntries } from "./shared_functions";
 import * as ncp from "ncp";
 
 let inputFolder = "./input";
@@ -11,27 +10,38 @@ let outputFolder = "./output";
 let translateJSONPath = "./translate_json";
 let tempFolder = "./temp";
 
-rimraf(tempFolder, (err) => {
-    if (err) {
-        console.error("Error removing temp directory");
-    }
-    console.log("Removed temp directory");
-    fs.mkdirSync(tempFolder);
-    
-    console.log("Created new temp directory");
-
-    fs.readdirSync(inputFolder).forEach((idmlName) => {
-        let inputSubPath = path.join(inputFolder, idmlName);
-        if (fs.statSync(inputSubPath).isDirectory()) {
-            const outputSubPath = path.join(outputFolder, idmlName);
-            rimraf(outputSubPath, (err) => {
-                ncp(path.join(inputFolder, idmlName), path.join(outputFolder, idmlName), (err) => {
-                    translateIDML(idmlName);
-                });
-            });
-        }
+async function ncpPromise(from: string, to: string): Promise<any> {
+    return new Promise((resolve, reject) => {
+        ncp(from, to, (err) => err ? reject(err) : resolve());
     });
-});
+}
+
+async function translateIDMLFiles() {
+    try {
+        await rmfr(tempFolder);
+        fs.mkdirSync(tempFolder);
+        console.log("Removed temp directory");
+
+        await rmfr(outputFolder);
+        fs.mkdirSync(outputFolder);
+        console.log("Removed output directory");
+        
+        let fileNames = fs.readdirSync(inputFolder);
+        const idmlDirectoryNames = fileNames.filter((fileName) => fs.statSync(path.join(inputFolder, fileName)).isDirectory());
+        for (let idmlName of idmlDirectoryNames) {
+            await ncpPromise(path.join(inputFolder, idmlName), path.join(outputFolder, idmlName));
+            console.log("Copied input to output folder for ", path.join(inputFolder, idmlName));
+            translateIDML(idmlName);
+        }
+
+    } catch (ex) {
+        console.error("Error removing directory", ex);
+    }
+}
+
+translateIDMLFiles().then(() => {
+    console.log("Done");
+})
 
 function translateIDML(idmlName: string) {
 
@@ -104,13 +114,22 @@ function translateStoriesXML(folder: string, langCode: string, idmlName: string)
         const spreadFileContents = fs.readFileSync(spreadFilePath).toString();
         const storyIds = getStoriesForSpread(spreadFileContents);
         let spreadTranslateMap = {};
+        let perStoryTranslateMap = {};
         let pageFileName: string;
+        let spreadTranslateEntries: TranslationEntry[] = [];
         try {
             pageFileName = pageFileNameForSpreadId(spreadIdsInOrder, spreadId);
             const pageFilePath = path.join(translateJSONPath, idmlName, langCode, pageFileName);
-            const spreadTranslateFile: TranslationEntry[] = JSON.parse(fs.readFileSync(pageFilePath).toString());
-            for (let entry of spreadTranslateFile) {
-                spreadTranslateMap[entry.sourceText] = entry.text;
+            spreadTranslateEntries = JSON.parse(fs.readFileSync(pageFilePath).toString());
+            for (let entry of spreadTranslateEntries) {
+                if (entry.type === "html") {
+                    let subEntries = htmlEntryToTextEntries(entry);
+                    for (let subEntry of subEntries) {
+                        spreadTranslateMap[subEntry.sourceText] = subEntry.text;
+                    }
+                } else {
+                    spreadTranslateMap[entry.sourceText] = entry.text;
+                }
             }
         } catch (ex) {
             if (pageFileName) {
@@ -118,7 +137,6 @@ function translateStoriesXML(folder: string, langCode: string, idmlName: string)
             } else {
                 console.log("In InDesign file ", idmlName, " Missing translation file for spread id ", spreadId, "for language ", langCode);
             }
-            
             return;
         }
         storyIds.forEach((storyId) => {
@@ -130,7 +148,7 @@ function translateStoriesXML(folder: string, langCode: string, idmlName: string)
                 if (spreadTranslateMap[key]) {
                     modifiedXML = modifiedXML.replace(key, spreadTranslateMap[key]);
                 } else {
-                    console.warn("In InDesign file ", idmlName, "Missing translation for ", key);
+                    // console.warn("In InDesign file ", idmlName, "Missing translation for ", key);
                 }
             })
             fs.writeFileSync(path.join(storiesPath, storyFile), modifiedXML, { flag: "w+" });
