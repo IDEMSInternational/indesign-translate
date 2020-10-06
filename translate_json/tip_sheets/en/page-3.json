@@ -2,156 +2,218 @@
     {
         "sourceText": "Teach your child about keeping safe distances",
         "text": "Teach your child about keeping safe distances",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub17"
     },
     {
         "sourceText": "Create a flexible but consistent daily routine.",
         "text": "Create a flexible but consistent daily routine.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub2d"
     },
     {
         "sourceText": "Make a schedule for you and your children that has time for structured activities as well as free time. This can help children feel more secure and better behaved.",
         "text": "Make a schedule for you and your children that has time for structured activities as well as free time. This can help children feel more secure and better behaved.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub52"
     },
     {
         "sourceText": "Children or teenagers can help plan the routine for the day – like making a school timetable. Children will follow this better if they help to make it.",
         "text": "Children or teenagers can help plan the routine for the day – like making a school timetable. Children will follow this better if they help to make it.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub52"
     },
     {
         "sourceText": "Include exercise in each day - this helps with stress and kids with lots of energy at home.",
         "text": "Include exercise in each day - this helps with stress and kids with lots of energy at home.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub52"
     },
     {
         "sourceText": "You are a model for your child’s behavior.",
         "text": "You are a model for your child’s behavior.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub69"
     },
     {
         "sourceText": "If you practice keeping safe distances and hygiene yourself, and treat others with compassion, especially those who are sick or vulnerable – your children and teenagers will learn from you.",
         "text": "If you practice keeping safe distances and hygiene yourself, and treat others with compassion, especially those who are sick or vulnerable – your children and teenagers will learn from you.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub7f"
     },
     {
         "sourceText": "At the end of each day, take a minute to think about the day. Tell your child about one positive or fun thing they did.",
         "text": "At the end of each day, take a minute to think about the day. Tell your child about one positive or fun thing they did.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub95"
     },
     {
         "sourceText": "Praise yourself for what you did well today.",
         "text": "Praise yourself for what you did well today.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub95"
     },
     {
         "sourceText": "",
         "text": "",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub95"
     },
     {
         "sourceText": "You are a star!",
         "text": "You are a star!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ub95"
     },
     {
         "sourceText": "If it is OK in your country, get children outside.",
         "text": "If it is OK in your country, get children outside.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubab"
     },
     {
         "sourceText": "You can also write letters and draw pictures to share with people.",
         "text": "You can also write letters and draw pictures to share with people.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubab"
     },
     {
         "sourceText": "Put them up outside your home for others to see!",
         "text": "Put them up outside your home for others to see!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubab"
     },
     {
         "sourceText": "You can reassure your child by talking about how you are keeping safe.",
         "text": "You can reassure your child by talking about how you are keeping safe.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubab"
     },
     {
         "sourceText": "Listen to their suggestions and take them seriously.",
         "text": "Listen to their suggestions and take them seriously.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubab"
     },
     {
         "sourceText": "Make handwashing and hygiene fun",
         "text": "Make handwashing and hygiene fun",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubd1"
     },
     {
         "sourceText": "Make a 20-second song for washing hands. Add actions!",
         "text": "Make a 20-second song for washing hands. Add actions!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubef"
     },
     {
         "sourceText": "Give children points and praise for regular handwashing.",
         "text": "Give children points and praise for regular handwashing.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ubef"
     },
     {
         "sourceText": "Make a game to see how few times we can touch our faces with a reward for the least number of touches (you can count for each other).",
         "text": "Make a game to see how few times we can touch our faces with a reward for the least number of touches (you can count for each other).",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "uc05"
     },
     {
         "sourceText": "Structure Up",
         "text": "Structure Up",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "uc33"
     },
     {
         "sourceText": "Covid-19 Parenting",
         "text": "Covid-19 Parenting",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "uc49"
     },
     {
         "sourceText": "COVID-19 has interrupted our daily work, home and school routines.",
         "text": "COVID-19 has interrupted our daily work, home and school routines.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "uc5f"
     },
     {
         "sourceText": "This is hard for children, teenagers and for you. Making new routines can help.",
         "text": "This is hard for children, teenagers and for you. Making new routines can help.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "uc5f"
     },
     {
         "sourceText": "Parenting tips from WHO",
         "text": "Parenting tips from WHO",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "uc96"
     },
     {
         "sourceText": "Parenting tips from UNICEF",
         "text": "Parenting tips from UNICEF",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ucac"
     },
     {
         "sourceText": "In worldwide languages",
         "text": "In worldwide languages",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ucc2"
     },
     {
         "sourceText": "evidence-base",
         "text": "evidence-base",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ucd8"
     },
     {
         "sourceText": "For more information click below links:",
         "text": "For more information click below links:",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ucee"
     },
     {
         "sourceText": "Partners",
         "text": "Partners",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u6427"
     },
     {
         "sourceText": "Funders",
         "text": "Funders",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u643e"
     }
 ]

@@ -2,26 +2,36 @@
     {
         "sourceText": "We are not allowed to visit other people right now because of COVID-19. This will keep them and us safe while making sure our health services are able to support those who are sick.",
         "text": "We are not allowed to visit other people right now because of COVID-19. This will keep them and us safe while making sure our health services are able to support those who are sick.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3058"
     },
     {
         "sourceText": "Why can’t I go play with my friends today?",
         "text": "Why can’t I go play with my friends today?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3071"
     },
     {
         "sourceText": "I can see that you are upset, Sam. It can be difficult when we feel separated from our friends.",
         "text": "I can see that you are upset, Sam. It can be difficult when we feel separated from our friends.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u32cb"
     },
     {
         "sourceText": "As soon as we are able, you can play with your friends. In the meantime, we can draw some pictures of your favourite times playing with them.",
         "text": "As soon as we are able, you can play with your friends. In the meantime, we can draw some pictures of your favourite times playing with them.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u30c2"
     },
     {
         "sourceText": "Okay.",
         "text": "Okay.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u787d"
     }
 ]

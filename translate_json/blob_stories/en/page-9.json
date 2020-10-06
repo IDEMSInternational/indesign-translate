@@ -2,36 +2,50 @@
     {
         "sourceText": "In 5 minutes it will be time to give me back the phone and start your school work.",
         "text": "In 5 minutes it will be time to give me back the phone and start your school work.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ufc6"
     },
     {
         "sourceText": "5 minutes is up. Please give me the phone.",
         "text": "5 minutes is up. Please give me the phone.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u11cc"
     },
     {
         "sourceText": "Uh-huh…",
         "text": "Uh-huh…",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ufe4"
     },
     {
         "sourceText": "No, I am not done. I just need to get to the next level.",
         "text": "No, I am not done. I just need to get to the next level.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u11e5"
     },
     {
         "sourceText": "You have a choice, either you give me the phone now, or you cannot use it after dinner.",
         "text": "You have a choice, either you give me the phone now, or you cannot use it after dinner.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u120a"
     },
     {
         "sourceText": "Thank you for giving me the phone back, Junior. Now please do your school work. After that we can take a walk or play a game together.",
         "text": "Thank you for giving me the phone back, Junior. Now please do your school work. After that we can take a walk or play a game together.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u124c"
     },
     {
         "sourceText": "Fine.",
         "text": "Fine.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1223"
     }
 ]

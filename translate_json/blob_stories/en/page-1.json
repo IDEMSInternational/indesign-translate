@@ -2,26 +2,43 @@
     {
         "sourceText": "I’m bored! There is nothing to do.",
         "text": "I’m bored! There is nothing to do.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u21d4"
     },
     {
         "sourceText": "Let’s do something together! How about we make some drawings and put them on the gate with messages for people to see?",
         "text": "Let’s do something together! How about we make some drawings and put them on the gate with messages for people to see?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u21ed"
     },
     {
         "sourceText": "Okay!",
         "text": "Okay!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u220a"
+    },
+    {
+        "sourceText": "Okay!",
+        "text": "Okay!",
+        "note": "",
+        "type": "text",
+        "storyId": "u23b2"
     },
     {
         "sourceText": "Sure!",
         "text": "Sure!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u2225"
     },
     {
         "sourceText": "You make the pictures and I’ll write the messages.",
         "text": "You make the pictures and I’ll write the messages.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u225a"
     }
 ]

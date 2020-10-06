@@ -2,36 +2,50 @@
     {
         "sourceText": "We need to use soap and wash for at least 20 seconds. We can sing your favourite song while washing. Let’s do it now!",
         "text": "We need to use soap and wash for at least 20 seconds. We can sing your favourite song while washing. Let’s do it now!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u4c00"
     },
     {
         "sourceText": "Make me nice and clean-o!",
         "text": "Make me nice and clean-o!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u56b2"
     },
     {
         "sourceText": "So we don’t get sick?",
         "text": "So we don’t get sick?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u4c19"
     },
     {
         "sourceText": "How long do we wash for?",
         "text": "How long do we wash for?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u5403"
     },
     {
         "sourceText": "Charlie, it is important that we keep our hands clean and wash them regularly. Do you know why?",
         "text": "Charlie, it is important that we keep our hands clean and wash them regularly. Do you know why?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u4c69"
     },
     {
         "sourceText": "Yes, so we don’t get sick and to also protect others. We need to wash our hands whenever we use the toilet, cough or sneeze, before and after eating, and come inside after being out.",
         "text": "Yes, so we don’t get sick and to also protect others. We need to wash our hands whenever we use the toilet, cough or sneeze, before and after eating, and come inside after being out.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u541c"
     },
     {
         "sourceText": "Okay!",
         "text": "Okay!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u4c9e"
     }
 ]

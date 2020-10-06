@@ -2,26 +2,36 @@
     {
         "sourceText": "I had it first!",
         "text": "I had it first!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ue2a"
     },
     {
         "sourceText": "Sussie and Billy, come and help me prepare dinner. We are making your favourite dish!",
         "text": "Sussie and Billy, come and help me prepare dinner. We are making your favourite dish!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ue96"
     },
     {
         "sourceText": "Thank you for helping me get these veggies clean for our dinner tonight!",
         "text": "Thank you for helping me get these veggies clean for our dinner tonight!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ued3"
     },
     {
         "sourceText": "Give it to me!",
         "text": "Give it to me!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ue06"
     },
     {
         "sourceText": "Take a deep breath…",
         "text": "Take a deep breath…",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "ue6b"
     }
 ]

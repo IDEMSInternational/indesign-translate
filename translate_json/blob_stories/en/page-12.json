@@ -2,31 +2,43 @@
     {
         "sourceText": "I see you are playing quietly with the Lego with concentration, Alex.",
         "text": "I see you are playing quietly with the Lego with concentration, Alex.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1b1c"
     },
     {
         "sourceText": "It is for cows.",
         "text": "It is for cows.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1d26"
     },
     {
         "sourceText": "It will keep the cow safe!",
         "text": "It will keep the cow safe!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1d47"
     },
     {
         "sourceText": "This house is going to keep our family warm and dry. You are such a good builder, Alex!",
         "text": "This house is going to keep our family warm and dry. You are such a good builder, Alex!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1d81"
     },
     {
         "sourceText": "Now you can help me build a house for our family to sleep in!",
         "text": "Now you can help me build a house for our family to sleep in!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1d63"
     },
     {
         "sourceText": "Wow! You are building such a tall and strong wall with those Legos.",
         "text": "Wow! You are building such a tall and strong wall with those Legos.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1d0b"
     }
 ]

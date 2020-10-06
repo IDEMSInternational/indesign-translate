@@ -2,26 +2,36 @@
     {
         "sourceText": "And then there were two green parrots in the mango tree!",
         "text": "And then there were two green parrots in the mango tree!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u148"
     },
     {
         "sourceText": "And now I am cleaning your toes, and your feet, and your knees…",
         "text": "And now I am cleaning your toes, and your feet, and your knees…",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u775"
     },
     {
         "sourceText": "You are such a beautiful girl!",
         "text": "You are such a beautiful girl!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u37a"
     },
     {
         "sourceText": "Buh, buh, buh, big boy!",
         "text": "Buh, buh, buh, big boy!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u39a"
     },
     {
         "sourceText": "Buh, buh, buh…",
         "text": "Buh, buh, buh…",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u75a"
     }
 ]

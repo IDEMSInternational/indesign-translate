@@ -2,41 +2,57 @@
     {
         "sourceText": "How am I going to get through this?",
         "text": "How am I going to get through this?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u12a8"
     },
     {
         "sourceText": "Whatever it is, I am okay.",
         "text": "Whatever it is, I am okay.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u14a0"
     },
     {
         "sourceText": "Notice when you are feeling upset.",
         "text": "Notice when you are feeling upset.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u68be"
     },
     {
         "sourceText": "Even 5 deep breaths can make a big difference.",
         "text": "Even 5 deep breaths can make a big difference.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u6e27"
     },
     {
         "sourceText": "Take a pause.",
         "text": "Take a pause.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u6e0e"
     },
     {
         "sourceText": "Notice how you feel afterwards.",
         "text": "Notice how you feel afterwards.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u6e40"
     },
     {
         "sourceText": "Breathe in. Breathe out.",
         "text": "Breathe in. Breathe out.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u14be"
     },
     {
         "sourceText": "I can do this. We will get through it together.",
         "text": "I can do this. We will get through it together.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u14db"
     }
 ]

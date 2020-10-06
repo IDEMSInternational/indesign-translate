@@ -2,261 +2,204 @@
     {
         "sourceText": "Share with colleagues, friends and family | Spread the word | Keep children safe online.",
         "text": "Share with colleagues, friends and family | Spread the word | Keep children safe online.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1efc"
     },
     {
         "sourceText": "Keep your child safe with open communication.",
         "text": "Keep your child safe with open communication.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f12"
     },
     {
         "sourceText": "Tell your children that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
         "text": "Tell your children that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f12"
     },
     {
         "sourceText": "Be alert to signs of distress.  Notice if your child is being withdrawn, upset, secretive, or obsessed with online activities.",
         "text": "Be alert to signs of distress.  Notice if your child is being withdrawn, upset, secretive, or obsessed with online activities.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f12"
     },
     {
         "sourceText": "Create trusting relationships and open communication through positive support and encouragement.",
         "text": "Create trusting relationships and open communication through positive support and encouragement.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f12"
     },
     {
         "sourceText": "Note that every child is unique and may use different ways to communicate.Take time to adjust your message for your child’s needs.",
         "text": "Note that every child is unique and may use different ways to communicate.Take time to adjust your message for your child’s needs.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f12"
     },
     {
         "sourceText": "For example, children with learning disabilities, may require information in simple formats.",
         "text": "For example, children with learning disabilities, may require information in simple formats.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f12"
     },
     {
         "sourceText": "Children and teens are now spending a lot more time online. Being connected helps them reduce the impact of COVID-19 and encourages them to continue with their lives… but it also presents risks and dangers.",
         "text": "Children and teens are now spending a lot more time online. Being connected helps them reduce the impact of COVID-19 and encourages them to continue with their lives… but it also presents risks and dangers.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f54"
     },
     {
         "sourceText": "Cyberbullying from peers and strangers.",
         "text": "Cyberbullying from peers and strangers.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1f8e"
     },
     {
-        "sourceText": "Spend time with your child or teen online.",
-        "text": "Spend time with your child or teen online.",
-        "note": ""
-    },
-    {
-        "sourceText": "Explore websites, social media, games, and apps together.",
-        "text": "Explore websites, social media, games, and apps together.",
-        "note": ""
-    },
-    {
-        "sourceText": "Talk to your teen on how to report inappropriate content (see below).",
-        "text": "Talk to your teen on how to report inappropriate content (see below).",
-        "note": ""
-    },
-    {
-        "sourceText": "Common Sense Media",
-        "text": "Common Sense Media",
-        "note": ""
-    },
-    {
-        "sourceText": "has great advice for apps, games and entertainment for different ages.",
-        "text": "has great advice for apps, games and entertainment for different ages.",
-        "note": ""
+        "sourceText": "<span id=\"item-0\">Spend time with your child or teen online.</span><span id=\"item-1\">Explore websites, social media, games, and apps together.</span><span id=\"item-2\">Talk to your teen on how to report inappropriate content (see below).</span><a id=\"u4d94\" title=\"Hyperlink 10\">Common Sense Media</a><span id=\"item-4\">has great advice for apps, games and entertainment for different ages.</span>",
+        "text": "<span id=\"item-0\">Spend time with your child or teen online.</span><span id=\"item-1\">Explore websites, social media, games, and apps together.</span><span id=\"item-2\">Talk to your teen on how to report inappropriate content (see below).</span><a id=\"u4d94\" title=\"Hyperlink 10\">Common Sense Media</a><span id=\"item-4\">has great advice for apps, games and entertainment for different ages.</span>",
+        "note": "",
+        "type": "html",
+        "storyId": "u1fa4"
     },
     {
         "sourceText": "Report online violence against children:",
         "text": "Report online violence against children:",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1fcb"
     },
     {
         "sourceText": "Other resources:",
         "text": "Other resources:",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1fe1"
     },
     {
         "sourceText": "Online Risks.",
         "text": "Online Risks.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u2004"
     },
     {
         "sourceText": "Adults targeting children for sexual purposes on social media, gaming, and messaging platforms.",
         "text": "Adults targeting children for sexual purposes on social media, gaming, and messaging platforms.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u201a"
     },
     {
         "sourceText": "Harmful content – violence, misogyny, xenophobia, inciting suicide and self-harm, misinformation, pornography  etc.",
         "text": "Harmful content – violence, misogyny, xenophobia, inciting suicide and self-harm, misinformation, pornography  etc.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u2030"
     },
     {
         "sourceText": "Teens sharing personal information and sexual photos or videos of themselves.",
         "text": "Teens sharing personal information and sexual photos or videos of themselves.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u2046"
     },
     {
         "sourceText": "Child Helpline",
         "text": "Child Helpline",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u20d5"
     },
     {
         "sourceText": "INHOPE Hotlines",
         "text": "INHOPE Hotlines",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u20eb"
     },
     {
         "sourceText": "IWF portals",
         "text": "IWF portals",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u2101"
     },
     {
         "sourceText": "safety booklet",
         "text": "safety booklet",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u213f"
     },
     {
         "sourceText": "unicef",
         "text": "unicef",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u217c"
     },
     {
         "sourceText": "other languages",
         "text": "other languages",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u21ba"
     },
     {
         "sourceText": "evidence-base",
         "text": "evidence-base",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u21f8"
     },
     {
         "sourceText": "Keeping Children Safe Online",
         "text": "Keeping Children Safe Online",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u25a0"
     },
     {
         "sourceText": "Covid-19 Parenting",
         "text": "Covid-19 Parenting",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u25b6"
     },
     {
-        "sourceText": "Create healthy and safe online habits.",
-        "text": "Create healthy and safe online habits.",
-        "note": ""
+        "sourceText": "<span id=\"item-0\">Create healthy and safe online habits.</span><span id=\"item-1\">Involve your</span><a id=\"u4d97\" title=\"Hyperlink 8\">child</a><span id=\"item-3\">or</span><a id=\"u4d9a\" title=\"Hyperlink 9\">teen</a><span id=\"item-5\">in creating family tech agreements about healthy device use.</span><span id=\"item-6\">Create device-free spaces and times in your house (eating, playing, schoolwork, and sleeping).</span><span id=\"item-7\">Help your child learn how to keep personal information private, especially from strangers &ndash; some people are not who they say they are!</span><span id=\"item-8\">Remind your children that what goes online stays online (messages, photos, and videos).</span><span id=\"item-9\">Actively supervise children&rsquo;s time online, including computers, smartphones, and tablets.</span>",
+        "text": "<span id=\"item-0\">Create healthy and safe online habits.</span><span id=\"item-1\">Involve your</span><a id=\"u4d97\" title=\"Hyperlink 8\">child</a><span id=\"item-3\">or</span><a id=\"u4d9a\" title=\"Hyperlink 9\">teen</a><span id=\"item-5\">in creating family tech agreements about healthy device use.</span><span id=\"item-6\">Create device-free spaces and times in your house (eating, playing, schoolwork, and sleeping).</span><span id=\"item-7\">Help your child learn how to keep personal information private, especially from strangers &ndash; some people are not who they say they are!</span><span id=\"item-8\">Remind your children that what goes online stays online (messages, photos, and videos).</span><span id=\"item-9\">Actively supervise children&rsquo;s time online, including computers, smartphones, and tablets.</span>",
+        "note": "",
+        "type": "html",
+        "storyId": "u25cd"
     },
     {
-        "sourceText": "Involve your",
-        "text": "Involve your",
-        "note": ""
-    },
-    {
-        "sourceText": "child",
-        "text": "child",
-        "note": ""
-    },
-    {
-        "sourceText": "or",
-        "text": "or",
-        "note": ""
-    },
-    {
-        "sourceText": "teen",
-        "text": "teen",
-        "note": ""
-    },
-    {
-        "sourceText": "in creating family tech agreements about healthy device use.",
-        "text": "in creating family tech agreements about healthy device use.",
-        "note": ""
-    },
-    {
-        "sourceText": "Create device-free spaces and times in your house (eating, playing, schoolwork, and sleeping).",
-        "text": "Create device-free spaces and times in your house (eating, playing, schoolwork, and sleeping).",
-        "note": ""
-    },
-    {
-        "sourceText": "Help your child learn how to keep personal information private, especially from strangers – some people are not who they say they are!",
-        "text": "Help your child learn how to keep personal information private, especially from strangers – some people are not who they say they are!",
-        "note": ""
-    },
-    {
-        "sourceText": "Remind your children that what goes online stays online (messages, photos, and videos).",
-        "text": "Remind your children that what goes online stays online (messages, photos, and videos).",
-        "note": ""
-    },
-    {
-        "sourceText": "Actively supervise children’s time online, including computers, smartphones, and tablets.",
-        "text": "Actively supervise children’s time online, including computers, smartphones, and tablets.",
-        "note": ""
-    },
-    {
-        "sourceText": "Tech fixes to protect your children online.",
-        "text": "Tech fixes to protect your children online.",
-        "note": ""
-    },
-    {
-        "sourceText": "Set up",
-        "text": "Set up",
-        "note": ""
-    },
-    {
-        "sourceText": "parental controls",
-        "text": "parental controls",
-        "note": ""
-    },
-    {
-        "sourceText": ".",
-        "text": ".",
-        "note": ""
-    },
-    {
-        "sourceText": "Turn on",
-        "text": "Turn on",
-        "note": ""
-    },
-    {
-        "sourceText": "SafeSearch",
-        "text": "SafeSearch",
-        "note": ""
-    },
-    {
-        "sourceText": "on your browser.",
-        "text": "on your browser.",
-        "note": ""
-    },
-    {
-        "sourceText": "Set up strict",
-        "text": "Set up strict",
-        "note": ""
-    },
-    {
-        "sourceText": "privacy settings",
-        "text": "privacy settings",
-        "note": ""
-    },
-    {
-        "sourceText": "on online apps and games.",
-        "text": "on online apps and games.",
-        "note": ""
-    },
-    {
-        "sourceText": "Cover webcams when not in use.",
-        "text": "Cover webcams when not in use.",
-        "note": ""
+        "sourceText": "<span id=\"item-0\">Tech fixes to protect your children online.</span><span id=\"item-1\">Set up</span><a id=\"u4d8f\" title=\"Hyperlink 5\">parental controls</a><span id=\"item-3\">.</span><span id=\"item-4\">Turn on</span><a id=\"u4d92\" title=\"Hyperlink 6\">SafeSearch</a><span id=\"item-6\">on your browser.</span><span id=\"item-7\">Set up strict</span><a id=\"u4d93\" title=\"Hyperlink 7\">privacy settings</a><span id=\"item-9\">on online apps and games.</span><span id=\"item-10\">Cover webcams when not in use.</span>",
+        "text": "<span id=\"item-0\">Tech fixes to protect your children online.</span><span id=\"item-1\">Set up</span><a id=\"u4d8f\" title=\"Hyperlink 5\">parental controls</a><span id=\"item-3\">.</span><span id=\"item-4\">Turn on</span><a id=\"u4d92\" title=\"Hyperlink 6\">SafeSearch</a><span id=\"item-6\">on your browser.</span><span id=\"item-7\">Set up strict</span><a id=\"u4d93\" title=\"Hyperlink 7\">privacy settings</a><span id=\"item-9\">on online apps and games.</span><span id=\"item-10\">Cover webcams when not in use.</span>",
+        "note": "",
+        "type": "html",
+        "storyId": "u25e3"
     },
     {
         "sourceText": "Partners",
         "text": "Partners",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u565c"
     },
     {
         "sourceText": "Funders",
         "text": "Funders",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u5673"
     }
 ]

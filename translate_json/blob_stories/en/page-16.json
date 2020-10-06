@@ -2,16 +2,22 @@
     {
         "sourceText": "Can I watch some T.V. after dinner?",
         "text": "Can I watch some T.V. after dinner?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u47a9"
     },
     {
         "sourceText": "When you clear the table, you can watch an hour of T.V.",
         "text": "When you clear the table, you can watch an hour of T.V.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u47db"
     },
     {
         "sourceText": "I really appreciate it when you help clean up after dinner. Thank you, Perry.",
         "text": "I really appreciate it when you help clean up after dinner. Thank you, Perry.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u4bbc"
     }
 ]

@@ -2,201 +2,316 @@
     {
         "sourceText": "Parenting tips from WHO",
         "text": "Parenting tips from WHO",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1e6"
     },
     {
         "sourceText": "Parenting tips from UNICEF",
         "text": "Parenting tips from UNICEF",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u1fc"
     },
     {
         "sourceText": "In worldwide languages",
         "text": "In worldwide languages",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u212"
     },
     {
         "sourceText": "evidence-base",
         "text": "evidence-base",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u228"
     },
     {
         "sourceText": "For more information click below links:",
         "text": "For more information click below links:",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u256"
     },
     {
         "sourceText": "https://www.unicef.org/coronavirus/covid-19-parenting-tips",
         "text": "https://www.unicef.org/coronavirus/covid-19-parenting-tips",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u26c"
     },
     {
         "sourceText": "COVID19Parenting.com",
         "text": "COVID19Parenting.com",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u282"
     },
     {
         "sourceText": "https://www.acceleratehub.org/plh-research-outputs",
         "text": "https://www.acceleratehub.org/plh-research-outputs",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u298"
     },
     {
         "sourceText": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/healthy-parenting",
         "text": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/healthy-parenting",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u2ae"
+    },
+    {
+        "sourceText": "Parenting tips from WHO",
+        "text": "Parenting tips from WHO",
+        "note": "",
+        "type": "text",
+        "storyId": "u2dc"
+    },
+    {
+        "sourceText": "Parenting tips from UNICEF",
+        "text": "Parenting tips from UNICEF",
+        "note": "",
+        "type": "text",
+        "storyId": "u2f2"
+    },
+    {
+        "sourceText": "In worldwide languages",
+        "text": "In worldwide languages",
+        "note": "",
+        "type": "text",
+        "storyId": "u308"
+    },
+    {
+        "sourceText": "evidence-base",
+        "text": "evidence-base",
+        "note": "",
+        "type": "text",
+        "storyId": "u31e"
+    },
+    {
+        "sourceText": "For more information click below links:",
+        "text": "For more information click below links:",
+        "note": "",
+        "type": "text",
+        "storyId": "u334"
     },
     {
         "sourceText": "Listen to them, look at them. Give them your full attention. Have fun!",
         "text": "Listen to them, look at them. Give them your full attention. Have fun!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u34a"
     },
     {
         "sourceText": "Read a book or look at pictures.",
         "text": "Read a book or look at pictures.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u360"
     },
     {
         "sourceText": "Make drawings with crayons or pencils.",
         "text": "Make drawings with crayons or pencils.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u360"
     },
     {
         "sourceText": "Dance to music or sing songs!",
         "text": "Dance to music or sing songs!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u360"
     },
     {
         "sourceText": "Do a chore together –  make cleaning and cooking a game!",
         "text": "Do a chore together –  make cleaning and cooking a game!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u360"
     },
     {
         "sourceText": "Help with school work.",
         "text": "Help with school work.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u360"
     },
     {
         "sourceText": "Ideas with your young child.",
         "text": "Ideas with your young child.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u376"
     },
     {
         "sourceText": "Switch off the TV and phone. This is virus-free time.",
         "text": "Switch off the TV and phone. This is virus-free time.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u38c"
     },
     {
         "sourceText": "Talk about something they like: sports, music, celebrities, friends.",
         "text": "Talk about something they like: sports, music, celebrities, friends.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3a2"
     },
     {
         "sourceText": "Cook a favourite meal together.",
         "text": "Cook a favourite meal together.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3a2"
     },
     {
         "sourceText": "Exercise together to their favorite music.",
         "text": "Exercise together to their favorite music.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3a2"
     },
     {
         "sourceText": "Ideas with your teenager.",
         "text": "Ideas with your teenager.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3b8"
     },
     {
         "sourceText": "Copy their facial expression and sounds.",
         "text": "Copy their facial expression and sounds.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3ce"
     },
     {
         "sourceText": "Sing songs, make music with pots and spoons.",
         "text": "Sing songs, make music with pots and spoons.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3ce"
     },
     {
         "sourceText": "Stack cups or blocks.",
         "text": "Stack cups or blocks.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3ce"
     },
     {
         "sourceText": "Tell a story, read a book, or share pictures.",
         "text": "Tell a story, read a book, or share pictures.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3ce"
     },
     {
         "sourceText": "Ideas with your baby/toddler.",
         "text": "Ideas with your baby/toddler.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3e4"
     },
     {
         "sourceText": "Choosing builds their self confidence.",
         "text": "Choosing builds their self confidence.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3fa"
     },
     {
         "sourceText": "If they want to do something that isn’t OK with physical distancing, then this is a chance to talk with them about this. (see next leaflet)",
         "text": "If they want to do something that isn’t OK with physical distancing, then this is a chance to talk with them about this. (see next leaflet)",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u3fa"
     },
     {
         "sourceText": "Ask your child what they would like to do.",
         "text": "Ask your child what they would like to do.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u410"
     },
     {
         "sourceText": "It can be for just 20 minutes, or longer – it’s up to us.",
         "text": "It can be for just 20 minutes, or longer – it’s up to us.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u426"
     },
     {
         "sourceText": "It can be at the same time each day so children or teenagers can look forward to it.",
         "text": "It can be at the same time each day so children or teenagers can look forward to it.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u426"
     },
     {
         "sourceText": "Set aside time to spend with each child.",
         "text": "Set aside time to spend with each child.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u43c"
     },
     {
         "sourceText": "We can also see this as a chance to make better relationships with our children and teenagers.",
         "text": "We can also see this as a chance to make better relationships with our children and teenagers.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u452"
     },
     {
         "sourceText": "One-on-One time is free and fun. It makes children feel loved and secure, and shows them that they are important.",
         "text": "One-on-One time is free and fun. It makes children feel loved and secure, and shows them that they are important.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u452"
     },
     {
         "sourceText": "Can’t go to work? Schools closed? Worried about money?",
         "text": "Can’t go to work? Schools closed? Worried about money?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u468"
     },
     {
         "sourceText": "It is normal to feel stressed and overwhelmed.",
         "text": "It is normal to feel stressed and overwhelmed.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u468"
     },
     {
         "sourceText": "One-on-One Time",
         "text": "One-on-One Time",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u47e"
     },
     {
         "sourceText": "Covid-19 Parenting",
         "text": "Covid-19 Parenting",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u494"
     },
     {
         "sourceText": "Partners",
         "text": "Partners",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u5b07"
     },
     {
         "sourceText": "Funders",
         "text": "Funders",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u5b1e"
     }
 ]

@@ -2,26 +2,36 @@
     {
         "sourceText": "Such a strong baby you are.",
         "text": "Such a strong baby you are.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u8f4"
     },
     {
         "sourceText": "We are making a delicious meal together.",
         "text": "We are making a delicious meal together.",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u93a"
     },
     {
         "sourceText": "Wow! You have stacked 3 blocks on top of each other. Well done!",
         "text": "Wow! You have stacked 3 blocks on top of each other. Well done!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u9b3"
     },
     {
         "sourceText": "Here I am?",
         "text": "Here I am?",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u97a"
     },
     {
         "sourceText": "Ha ha ha!",
         "text": "Ha ha ha!",
-        "note": ""
+        "note": "",
+        "type": "text",
+        "storyId": "u996"
     }
 ]
