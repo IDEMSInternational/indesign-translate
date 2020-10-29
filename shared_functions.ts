@@ -186,7 +186,10 @@ export function htmlEntryToTextEntries(translateEntry: TranslationEntry): Transl
 export function getSpreadIdsInOrder(tempPath: string) {
     const designMapFileContents = fs.readFileSync(path.join(tempPath, "designmap.xml")).toString();
     const designMapParsed = parse(designMapFileContents, { ignoreAttributes: false });
-    const designMapSpreads: any[] = designMapParsed.Document["idPkg:Spread"];
+    let designMapSpreads: any[] = designMapParsed.Document["idPkg:Spread"];
+    if (!Array.isArray(designMapSpreads)) {
+        designMapSpreads = [designMapParsed.Document["idPkg:Spread"]];
+    }
     const spreadIdsInOrder = designMapSpreads.map((spread) => {
         const spreadFilePath: string = spread["@_src"];
         return spreadFilePath.replace("Spreads/Spread_", "").replace(".xml", "");
