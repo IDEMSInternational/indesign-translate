@@ -26,19 +26,19 @@ for action, elem in transl_xlf_tree:
                     has_hyper = True
                     for grandchild in child:
                         source_hyper.append(grandchild.text)
-                    #print(source_hyper)
+                    print(source_hyper)
             elif child.tag.endswith("target"):
                 transl_hyper = []
                 transl_text = child.text
                 if not child.text:
                     for grandchild in child:
                         transl_hyper.append(grandchild.text)
-                    #print(transl_hyper)
+                    print(transl_hyper)
 
         match = False
         if has_hyper:
 
-            print(source_hyper)
+            #print(source_hyper)
             for bit in original_json:
                 if bit["sourceText"].startswith("<span id=\"item-0\">"):
                     
@@ -53,9 +53,15 @@ for action, elem in transl_xlf_tree:
                         print("match")
                         match = True
                         transl_text = source_replace_special
+                        transl_text_split = transl_text.split("><")
                         for i in range(len(source_hyper)):
                             transl_text = transl_text.replace(source_hyper[i],transl_hyper[i])
-                            bit["text"] = transl_text
+                            transl_text_split[i] = transl_text_split[i].replace(source_hyper[i],transl_hyper[i])
+                        bit["text"] = transl_text
+                        transl_text_split = "><".join(transl_text_split)
+                        #transl_text_split = transl_text_split.replace("</span>", "</span>").replace("</a>", "</a>")
+                        bit["text"] = transl_text_split
+                        
                             
                         
         else:
@@ -72,7 +78,7 @@ for action, elem in transl_xlf_tree:
 
 
 
-translated_json = open("./translate_json/tip_sheets/zu/Zulu_tip_sheets_7to12.json", "w")
+translated_json = open("./translate_json/tip_sheets/zu/Zulu_tip_sheets_7to12_new_tag.json", "w")
 json.dump(original_json, translated_json, indent=2)   
 translated_json.close()
 
