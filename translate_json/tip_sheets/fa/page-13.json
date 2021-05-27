@@ -1,0 +1,306 @@
+[
+  {
+    "sourceText": "Tips for Children with Disabilities",
+    "text": "توصیه‌هایی برای کودکان کم‌توان",
+    "note": "",
+    "type": "text",
+    "storyId": "u3f82",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "For more information click below links:",
+    "text": "برای دریافت اطلاعات بیشتر، روی لینک‌های زیر کلیک کنید:",
+    "note": "",
+    "type": "text",
+    "storyId": "u3fde",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "tips from UNICEF",
+    "text": "توصیه‌های یونیسف",
+    "note": "",
+    "type": "text",
+    "storyId": "u400f",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "other languages",
+    "text": "سایر زبان‌ها",
+    "note": "",
+    "type": "text",
+    "storyId": "u4040",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "evidence-base IS HERE",
+    "text": "اینجا اطلاعات مبتنی بر شواهد ارائه می‌دهیم",
+    "note": "",
+    "type": "text",
+    "storyId": "u4071",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "It is strongly recommended that you follow local guidelines for COVID-19 while helping your child stay as active as possible both indoors and outdoors.",
+    "text": "ضمن تأکید بر لزوم فعال نگه داشتن فرزندانتان در خانه و محیط بیرون، قویاً توصیه می‌کنیم همه دستورالعمل‌های محلی مرتبط با شرایط ناشی از کووید ۱۹ را با دقت رعایت کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u40dc",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Ask your local support team or intervention centres about special arrangements for the COVID-19.",
+    "text": "از شبکه‌های حمایتی محله‌تان یا مراکز مداخله بخواهید تا اطلاعات مربوط به تمهیدات ویژه دوران کووید ۱۹ را در اختیارتان بگذارند.",
+    "note": "",
+    "type": "text",
+    "storyId": "u40dc",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Keep emergency contact numbers where you can easily see it, such as on the refrigerator.",
+    "text": "شماره‌های تماس اضطراری را جلوی چشم بگذارید. می‌تونید شماره‌ها را روی در یخچال بچسبانید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u40dc",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Covid-19 Parenting",
+    "text": "والدگری در دوران کووید ۱۹",
+    "note": "",
+    "type": "text",
+    "storyId": "u40fe",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Be supportive, empathetic, and loving.",
+    "text": "حامی و همدل باشید و به یکدیگر عشق بورزید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u430a",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Your child may not have the same support they usually have, and this can lead to additional challenges such as increased stress, anxiety, and frustration.",
+    "text": "در این شرایط، فرزندتان ممکن است به حمایت‌های همیشگی دسترسی نداشته باشد. این مسأله ممکن است به چالش‌های بیشتری منجر شود و پیامدهایی مثل افزایش استرس، اضطراب و ناامیدی را به دنبال داشته باشد.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4320",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Use physical and verbal support to make your child feel accepted and loved.",
+    "text": "از راهکارهای حمایتی فیزیکی و کلامی استفاده کنید تا فرزندتان احساس کند او را دوست دارید و همان‌طور که هست پذیرفته‌اید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4320",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Positive body language, gestures, and words make a big difference!",
+    "text": "زبان و حرکات بدن و کلمات مثبت می‌توانند بسیار تأثیرگذار باشند!",
+    "note": "",
+    "type": "text",
+    "storyId": "u4320",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Communicating with your child.",
+    "text": "با فرزند خود ارتباط برقرار کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4336",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Keep your child safe.",
+    "text": "مراقب سلامت فرزندتان باشید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u434c",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Get down to your child’s level when communicating with your child.",
+    "text": "هنگام برقراری ارتباط با فرزندتان، کاری کنید سرتان هم‌سطح سر او باشد.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4362",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Maintain eye contact, a positive attitude.",
+    "text": "تماس چشمی و خوش‌بینی‌تان را حفظ کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4362",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Take your time to allow your child the space to communicate.",
+    "text": "با فرزندتان صبوری کنید و به او فرصتی بدهید تا بتواند با شما ارتباط برقرار کند.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4362",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Observe, listen to, and confirm that you understand your child.",
+    "text": "فرزندتان را تحت نظر بگیرید، به حرف‌هایش گوش دهید و به او نشان دهید درکش می‌کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u4362",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Reinforce the positive!",
+    "text": "به تفکرات مثبت فرزندتان پروبال بدهید!",
+    "note": "",
+    "type": "text",
+    "storyId": "u4378",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Reinforce strengths with praise and stimulate their abilities rather than highlight the things they cannot do.",
+    "text": "به جای برجسته کردن نقاط ضعف فرزندتانتان، نقاط قوتشن را تقویت و توانایی‌هایشان را شکوفا کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u438e",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Only help children when they need it.",
+    "text": "فقط، در صورت ضرورت، به فرزندتان کمک کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u438e",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Too much support denies them the chance to become independent and can feel patronising.",
+    "text": "حمایت بیش از حد از فرزندتان، فرصت استقلال یافتن را از او می‌گیرد و ممکن است باعث شود خودش را تحت سلطه شما ببیند.",
+    "note": "",
+    "type": "text",
+    "storyId": "u438e",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Ask for help if you can.",
+    "text": "در صورت امکان، از دیگران کمک بگیرید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43a4",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Share the load with other adult family members.",
+    "text": "مسئولیت‌های خانه را با سایر اعضای بزرگسال خانواده تقسیم کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43ba",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "You are not alone! Keep connected with people who understand your situation. Share your challenges AND your successes.",
+    "text": "شما تنها نیستید! با کسانی که وضعیتتان را درک می‌کنند در تماس باشید. چالش‌ها و موفقیت‌هایتان را با یکدیگر به اشتراک بگذارید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43ba",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "It is normal to feel stressed, frustrated, and afraid at this time.",
+    "text": "در شرایط فعلی، احساس استرس، ناامیدی و ترس کاملاً طبیعی است.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43ba",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Be kind to yourself and take a break when you need to!",
+    "text": "با خودتان مهربان باشید و، در صورت نیاز، استراحت کنید!",
+    "note": "",
+    "type": "text",
+    "storyId": "u43ba",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Tip sheets “When We Get Angry” and “Keep Calm and Manage Stress” have some helpful advice.",
+    "text": "برگه‌های توصیه «وقتی عصبانی می‌شویم» و «حفظ آرامش و مدیریت استرس» حاوی توصیه‌هایی مفید هستند.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43ba",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Strengthen routines.",
+    "text": "روال و نظم روزانه‌تان را تقویت کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43d0",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Routines help children feel secure and safe. See tip sheet, “Structure Up!” for more info.",
+    "text": "روال و نظم روزانه به کودکان احساس امنیت می‌دهد. برای دریافت اطلاعات بیشتر، به برگه توصیه «به خودت نظم بده» مراجعه کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43e6",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Create a daily routine with activities that are familiar to your child and include some of their favourite activities.",
+    "text": "با کمک فعالیت‌هایی که برای فرزندتان آشناست و شامل بعضی از فعالیت‌های محبوبش می‌شوند، برای خودتان روال و نظم روزانه ایجاد کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43e6",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Help your child connect to friends and family members via phone chats, writing cards, or drawing pictures.",
+    "text": "به فرزندتان کمک کنید، از طریق تلفن، ارسال کارت‌پستال یا کشیدن نقاشی، با دوستان و اعضای خانواده در تماس باشد.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43e6",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Provide your child with choices so that they have a sense of control. This also increases self-esteem.",
+    "text": "به فرزندتان حق انتخاب بدهید تا احساس کند روی زندگیش کنترل دارد. با این کار به افزایش عزت نفس فرزندتان کمک می‌کنید.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43e6",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Use simple language and clear instructions and nonverbal communication for children who need it (for example: gestures, pictures, and visual aids).",
+    "text": "از زبان ساده، دستورالعمل های شفاف و ارتباطات غیر کلامی برای ارتباط با فرزندانی استفاده کنید که به این راه‌های ارتباطی نیاز دارند (برای مثال، حرکات بدن، تصاویر، و ابزارهای کمکی دیداری).",
+    "note": "",
+    "type": "text",
+    "storyId": "u43e6",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "All children, including those with disabilities, need love, respect, nurturing, and time, especially during difficult and uncertain times.",
+    "text": "همه کودکان، از جمله کودکان کم‌توان، به عشق، احترام، آموزش و زمان نیاز دارند. این مسأله در دوران سخت و مبهم کنونی بیش از همیشه اهمیت دارد.",
+    "note": "",
+    "type": "text",
+    "storyId": "u43fc",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Partners",
+    "text": "همکاران",
+    "note": "",
+    "type": "text",
+    "storyId": "u8e69",
+    "TipSheetId": "page-13"
+  },
+  {
+    "sourceText": "Funders",
+    "text": "تأمین‌کنندگان مالی",
+    "note": "",
+    "type": "text",
+    "storyId": "u8e80",
+    "TipSheetId": "page-13"
+  }
+]

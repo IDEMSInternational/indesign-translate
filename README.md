@@ -48,7 +48,13 @@ Before you can run any of the scripts mentioned below you need to:
 2. Run the translate script by either
     - Double clicking generate_translated_indesign.bat (if on Windows)
     - Running ```npm run translate``` in a command line (if on MacOS, Linux or Windows)
-3. The output folder will now have an InDesign file for every language witha translation.
+3. The output folder will now have an InDesign file for every language witha translation. 
 4. Open each IDML file in InDesign and check for any manual adjustments that are needed.
 5. Use InDesign to export the IDML files to PDF's.
 6. You can use [this plugin](https://redokun.com/resources/batch-convert-pdf-file) to do this in bulk
+
+
+**** BUG WITH HYPERLINKS ****
+For tipsheets 6 and 7 an invalid indesign file is generated due to the algorithm replacing "or" and "and" in the full xml files which breaks some tags. To manually fix the problem, use z-zip to unzip the idml file, go to the folder stories and 
+* tip sheet 7: story u25cd --> replace the translation of "or"  with in "story" in the first tag and then replace "or" with its translation in the corresponding text field below
+* tip sheet 6: story u1a84 -->  replace the translation of "and"  with in "standalone" on the first row and then replace "and" with its translation in the corresponding text field below

@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0" xmlns:mtc="https://www.matecat.com">
+<file original="Zulu_tip_sheets_7to12.json" source-language="en-US" target-language="zu-ZA" datatype="x-application/json">
+<body>
+<group id="sg1">
+<group id="sg2">
+<group id="sg2_ssf1" resname="sub-filter:text">
+<trans-unit id="sg2_sf1_tu1" resname="text_1">
+<source xml:lang="en-US">Millions of children face interruptions with schooling and often feel isolated from friends and peers.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izigidi zezingane zihlangabezana nokuphazamiseka bese zizizwa zibandlululekile ebanganini nontanga.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg2_sf1_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg3">
+<group id="sg3_ssf2" resname="sub-filter:text">
+<trans-unit id="sg3_sf2_tu1" resname="text_1">
+<source xml:lang="en-US">This tip is about learning through play – something that can be fun for all ages!</source>
+<target xml:lang="zu-ZA" state="signed-off">Leli cebiso limayelana nokufunda ngokudlala - into engathokozelwa abantu beminyaka yonke!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg3_sf2_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">16</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg4">
+<group id="sg4_ssf3" resname="sub-filter:text">
+<trans-unit id="sg4_sf3_tu1" resname="text_1">
+<source xml:lang="en-US">For more information click below links:</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuze uthole imininingwane eyengeziwe chofoza izixhumanisi ezingezansi:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg4_sf3_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg5">
+<group id="sg5_ssf4" resname="sub-filter:text">
+<trans-unit id="sg5_sf4_tu1" resname="text_1">
+<source xml:lang="en-US">Telling stories.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuxoxa izindaba.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg5_sf4_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg6">
+<group id="sg6_ssf5" resname="sub-filter:text">
+<trans-unit id="sg6_sf5_tu1" resname="text_1">
+<source xml:lang="en-US">Tell your children a story from your own childhood.</source>
+<target xml:lang="zu-ZA" state="signed-off">Xoxela izingane zakho indaba kusukela ebuntwaneni bakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg6_sf5_tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg7">
+<group id="sg7_ssf6" resname="sub-filter:text">
+<trans-unit id="sg7_sf6_tu1" resname="text_1">
+<source xml:lang="en-US">Ask your children to tell you a story.</source>
+<target xml:lang="zu-ZA" state="signed-off">Cela izingane zakho ukuba zikuxoxele indaba.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg7_sf6_tu1"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg8">
+<group id="sg8_ssf7" resname="sub-filter:text">
+<trans-unit id="sg8_sf7_tu1" resname="text_1">
+<source xml:lang="en-US">Make up a new story together starting with “Once upon a time…” Each person adds a new sentence to the story.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yenzani indaba entsha ndawonye niqale ngokuthi “Kwasukasukela…” Umuntu ngamunye uzokwengeza umusho endabani.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg8_sf7_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">21</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg9">
+<group id="sg9_ssf8" resname="sub-filter:text">
+<trans-unit id="sg9_sf8_tu1" resname="text_1">
+<source xml:lang="en-US">Act out a favorite story or movie – older children can even direct younger ones while learning responsibility.</source>
+<target xml:lang="zu-ZA" state="signed-off">Lingisani indaba eniyithandayo noma ifilimu – izingane ezindala zingase ziqondise ezincane njengoba zifunda umsebenzi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg9_sf8_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg10">
+<group id="sg10_ssf9" resname="sub-filter:text">
+<trans-unit id="sg10_sf9_tu1" resname="text_1">
+<source xml:lang="en-US">Change the object!</source>
+<target xml:lang="zu-ZA" state="signed-off">Shintsha into!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg10_sf9_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg11">
+<group id="sg11_ssf10" resname="sub-filter:text">
+<trans-unit id="sg11_sf10_tu1" resname="text_1">
+<source xml:lang="en-US">Every day household items like brooms, mops, or scarfs can become fun props for games.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izinto ezisetshenziswa nsuku zonke ekhaya ezinjengemishanelo, amamophu, noma izikhafu kungaba yizinto zokuzijabulisa zemidlalo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg11_sf10_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg12">
+<group id="sg12_ssf11" resname="sub-filter:text">
+<trans-unit id="sg12_sf11_tu1" resname="text_1">
+<source xml:lang="en-US">Place an object in the center of the room and whenever someone has an idea, they jump in and show the rest what the object can be.</source>
+<target xml:lang="zu-ZA" state="signed-off">Beka into phakathi negumbi nomshanelo futhi uma kukhona onombono, agxumele phakathi ese ebonisa wonke umuntu ukuthi leyonto kungaba yini.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg12_sf11_tu1"><count count-type="x-matecat-raw">27</count><count count-type="x-matecat-weighted">27</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg13">
+<group id="sg13_ssf12" resname="sub-filter:text">
+<trans-unit id="sg13_sf12_tu1" resname="text_1">
+<source xml:lang="en-US">For example, a broom might become a horse, microphone, or even a guitar!</source>
+<target xml:lang="zu-ZA" state="signed-off">Ngokwesibonelo, umshanelo ungaba yihhashi, umbhobho, noma isiginci!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg13_sf12_tu1"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg14">
+<group id="sg14_ssf13" resname="sub-filter:text">
+<trans-unit id="sg14_sf13_tu1" resname="text_1">
+<source xml:lang="en-US">Movement games.</source>
+<target xml:lang="zu-ZA" state="signed-off">Imidlalo yokunyakaza.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg14_sf13_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg15">
+<group id="sg15_ssf14" resname="sub-filter:text">
+<trans-unit id="sg15_sf14_tu1" resname="text_1">
+<source xml:lang="en-US">Create a dance choreography to your children’s favorite songs. First person does a dance move and everyone else copies. Everyone takes turns being the leader.</source>
+<target xml:lang="zu-ZA" state="signed-off">Qamba ubuciko bomdanso wengoma ethandwa yizingane zakho. Umuntu wokuqala wenza umdanso bese bonke abanye bayamlingisa. Wonke umuntu uyashintshana ngokuba ngumholi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg15_sf14_tu1"><count count-type="x-matecat-raw">26</count><count count-type="x-matecat-weighted">25</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg16">
+<group id="sg16_ssf15" resname="sub-filter:text">
+<trans-unit id="sg16_sf15_tu1" resname="text_1">
+<source xml:lang="en-US">“Challenge” who can do the most toe touches, jumping jacks, or laps around the room in a minute.</source>
+<target xml:lang="zu-ZA" state="signed-off">"Phosa inselelo" ubani okwazi ukuthinta izinzwane kakhulu, ukugxuma, noma  ukugxumagxuma egunjini ngomzuzu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg16_sf15_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg17">
+<group id="sg17_ssf16" resname="sub-filter:text">
+<trans-unit id="sg17_sf16_tu1" resname="text_1">
+<source xml:lang="en-US">“Mirror” each other’s facial expressions, movements, sounds. One person can start as the leader and then switch. Try it with no leaders!</source>
+<target xml:lang="zu-ZA" state="signed-off">“Isibuko" ubuso bomunye nomunye, ukunyakaza, imisindo. Umuntu oyedwa angaqala njengomholi bese niyashintshana. Kuzameni ngaphandle komholi!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg17_sf16_tu1"><count count-type="x-matecat-raw">23</count><count count-type="x-matecat-weighted">22</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg18">
+<group id="sg18_ssf17" resname="sub-filter:text">
+<trans-unit id="sg18_sf17_tu1" resname="text_1">
+<source xml:lang="en-US">Freeze dance: Play music or someone sings a song, and everyone dances. When the music stops, everyone must freeze. Last person still dancing becomes the judge for the next round.</source>
+<target xml:lang="zu-ZA" state="signed-off">Umdanso wokunganyakazi: Dlala umculo noma othile acule, bese wonke umuntu uyadansa. Uma umculo uma, wonke umuntu kumele ame anganyakazi. Umuntu ozogcina ukuma uba yijaji ngokulandelayo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg18_sf17_tu1"><count count-type="x-matecat-raw">30</count><count count-type="x-matecat-weighted">30</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg19">
+<group id="sg19_ssf18" resname="sub-filter:text">
+<trans-unit id="sg19_sf18_tu1" resname="text_1">
+<source xml:lang="en-US">Animal dance: Same as above but when the music stops, call out a name of an animal, and everyone has to become that animal.</source>
+<target xml:lang="zu-ZA" state="signed-off">Umdanso wezilwane: Njengasenhla kodwa uma umculo uma, biza igama lesilwane, bese wonke umuntu kufanele abe yileso silwane.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg19_sf18_tu1"><count count-type="x-matecat-raw">24</count><count count-type="x-matecat-weighted">24</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg20">
+<group id="sg20_ssf19" resname="sub-filter:text">
+<trans-unit id="sg20_sf19_tu1" resname="text_1">
+<source xml:lang="en-US">Types of play.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izinhlobo zemidlalo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg20_sf19_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg21">
+<group id="sg21_ssf20" resname="sub-filter:text">
+<trans-unit id="sg21_sf20_tu1" resname="text_1">
+<source xml:lang="en-US">Learning through Play</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukufunda Ngokudlala</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg21_sf20_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg22">
+<group id="sg22_ssf21" resname="sub-filter:text">
+<trans-unit id="sg22_sf21_tu1" resname="text_1">
+<source xml:lang="en-US">Covid-19 Parenting</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Ngesikhathi se-Covid-19</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg22_sf21_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg23">
+<group id="sg23_ssf22" resname="sub-filter:text">
+<trans-unit id="sg23_sf22_tu1" resname="text_1">
+<source xml:lang="en-US">tips from WHO</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-WHO</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg23_sf22_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg24">
+<group id="sg24_ssf23" resname="sub-filter:text">
+<trans-unit id="sg24_sf23_tu1" resname="text_1">
+<source xml:lang="en-US">tips from UNICEF</source>
+<target xml:lang="zu-ZA" state="signed-off"> amacebiso avela kwa-UNICEF</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg24_sf23_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg25">
+<group id="sg25_ssf24" resname="sub-filter:text">
+<trans-unit id="sg25_sf24_tu1" resname="text_1">
+<source xml:lang="en-US">other languages</source>
+<target xml:lang="zu-ZA" state="signed-off">ezinye izilimi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg25_sf24_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg26">
+<group id="sg26_ssf25" resname="sub-filter:text">
+<trans-unit id="sg26_sf25_tu1" resname="text_1">
+<source xml:lang="en-US">evidence-base</source>
+<target xml:lang="zu-ZA" state="signed-off">isisekelo sobufakazi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg26_sf25_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">1</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg27">
+<group id="sg27_ssf26" resname="sub-filter:text">
+<trans-unit id="sg27_sf26_tu1" resname="text_1">
+<source xml:lang="en-US">Singing.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukucula.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg27_sf26_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">1</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg28">
+<group id="sg28_ssf27" resname="sub-filter:text">
+<trans-unit id="sg28_sf27_tu1" resname="text_1">
+<source xml:lang="en-US">Singing songs to your baby or young child helps develop language.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuculela usana noma ingane yakho encane amaculo kusiza ukuthuthukisa ulimi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg28_sf27_tu1"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">11</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg29">
+<group id="sg29_ssf28" resname="sub-filter:text">
+<trans-unit id="sg29_sf28_tu1" resname="text_1">
+<source xml:lang="en-US">Play or sing a song, and the first one to guess it right becomes the next leader.</source>
+<target xml:lang="zu-ZA" state="signed-off">Dlala noma ucule ingoma, futhi owokuqala ukuyiqagela kahle uzoba ngumholi olandelayo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg29_sf28_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg30">
+<group id="sg30_ssf29" resname="sub-filter:text">
+<trans-unit id="sg30_sf29_tu1" resname="text_1">
+<source xml:lang="en-US">Make up a song about handwashing or physical distancing. Add dance movements!</source>
+<target xml:lang="zu-ZA" state="signed-off">Yenza ingoma ngokugeza izandla noma ukuqhelelana. Faka iminyakazo yokudansa!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg30_sf29_tu1"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">12</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg31">
+<group id="sg31_ssf30" resname="sub-filter:text">
+<trans-unit id="sg31_sf30_tu1" resname="text_1">
+<source xml:lang="en-US">Memory game.</source>
+<target xml:lang="zu-ZA" state="signed-off">Umdlalo wenkumbulo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg31_sf30_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg32">
+<group id="sg32_ssf31" resname="sub-filter:text">
+<trans-unit id="sg32_sf31_tu1" resname="text_1">
+<source xml:lang="en-US">First person says, “When COVID-19 ends, I am going to...” (e.g, go to the park).</source>
+<target xml:lang="zu-ZA" state="signed-off">Umuntu wokuqala uthi, “Uma i-COVID-19 iphela, ngizo..." (isib, ngizoya epaki).</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg32_sf31_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg33">
+<group id="sg33_ssf32" resname="sub-filter:text">
+<trans-unit id="sg33_sf32_tu1" resname="text_1">
+<source xml:lang="en-US">Second person adds to first person, “When COVID-19 ends, I am going to the park and… (e.g., visit my best friend)”.</source>
+<target xml:lang="zu-ZA" state="signed-off">Umuntu wesibili uzokwengeza kowokuqala, "Uma i-COVID-19 iphela, ngizoya epaki futhi...(isib., ngivakashele umngane wami omkhulu)".</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg33_sf32_tu1"><count count-type="x-matecat-raw">23</count><count count-type="x-matecat-weighted">23</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg34">
+<group id="sg34_ssf33" resname="sub-filter:text">
+<trans-unit id="sg34_sf33_tu1" resname="text_1">
+<source xml:lang="en-US">Each person adds to the previous trying to think of all of the fun things to do when COVID-19 ends.</source>
+<target xml:lang="zu-ZA" state="signed-off">Umuntu ngamunye wengeza kokudlule ezama ukucabanga ngezinto ezijabulisayo angazenza uma kuphela i-COVID-19.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg34_sf33_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">20</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg35">
+<group id="sg35_ssf34" resname="sub-filter:text">
+<trans-unit id="sg35_sf34_tu1" resname="text_1">
+<source xml:lang="en-US">You can change this to any scenario in the future (e.g., when I see my friends).</source>
+<target xml:lang="zu-ZA" state="signed-off">Ungakushintsha lokhu kube yinoma yisiphi isimo ngokuzayo (isib., uma ngibona abangane bami).</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg35_sf34_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg36">
+<group id="sg36_ssf35" resname="sub-filter:text">
+<trans-unit id="sg36_sf35_tu1" resname="text_1">
+<source xml:lang="en-US">There are many different types of play that can be both fun AND educational.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kunezinhlobo eziningi zemidlalo ezingaba mnandi FUTHI zifundise.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg36_sf35_tu1"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">14</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg37">
+<group id="sg37_ssf36" resname="sub-filter:text">
+<trans-unit id="sg37_sf36_tu1" resname="text_1">
+<source xml:lang="en-US">Language, numbers, objects, drama, and music games give children opportunities to explore and express themselves in a safe and fun way.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izilimi, izinombolo, izinto, imidlalo yeshashalazi, nemidlalo yomculo kunikeza izingane amathuba okuhlola nokuziveza ngendlela ephephile nejabulisayo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg37_sf36_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">21</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg38">
+<group id="sg38_ssf37" resname="sub-filter:text">
+<trans-unit id="sg38_sf37_tu1" resname="text_1">
+<source xml:lang="en-US">Partners</source>
+<target xml:lang="zu-ZA" state="signed-off">Ophathina</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg38_sf37_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">1</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg39">
+<group id="sg39_ssf38" resname="sub-filter:text">
+<trans-unit id="sg39_sf38_tu1" resname="text_1">
+<source xml:lang="en-US">Funders</source>
+<target xml:lang="zu-ZA" state="signed-off">Abaxhasi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg39_sf38_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">1</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg40">
+<group id="sg40_ssf39" resname="sub-filter:text">
+<trans-unit id="sg40_sf39_tu1" resname="text_1">
+<source xml:lang="en-US">We love our children and teenagers, but stress from caregiving, money, and COVID-19 can make us angry.</source>
+<target xml:lang="zu-ZA" state="signed-off">Siyazithanda izingane nentsha yethu, kodwa ingcindezi evela ekubanakekeleni, emalini, kanye ne-COVID-19 kungasenza sithukuthele.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg40_sf39_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg41">
+<group id="sg41_ssf40" resname="sub-filter:text">
+<trans-unit id="sg41_sf40_tu1" resname="text_1">
+<source xml:lang="en-US">Here is how we can maintain control and manage our anger so we do not hurt others.</source>
+<target xml:lang="zu-ZA" state="signed-off">Nakhu esingakwenza ukugcina nokulawula intukuthelo yethu ukuze singalimazi abanye.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg41_sf40_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg42">
+<group id="sg42_ssf41" resname="sub-filter:text">
+<trans-unit id="sg42_sf41_tu1" resname="text_1">
+<source xml:lang="en-US">For more information click below links:</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuze uthole imininingwane eyengeziwe chofoza izixhumanisi ezingezansi:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg42_sf41_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg43">
+<group id="sg43_ssf42" resname="sub-filter:text">
+<trans-unit id="sg43_sf42_tu2" resname="text_1" restype="x-title">
+<source xml:lang="en-US">Hyperlink 111</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 111</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg43_sf42_tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg43_sf42_tu3" resname="text_2" restype="x-title">
+<source xml:lang="en-US">Hyperlink 2</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 2</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg43_sf42_tu3"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg43_sf42_tu1" resname="text_3">
+<source xml:lang="en-US"><g id="1">Stop the river at the source.</g><g id="2">The same things usually make us get stressed and angry every time.</g><g id="3">What makes you angry? When does it happen? How do you normally react?</g><g id="4">Prevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone.</g><g id="5">Look after yourself. Try the “</g><g id="6">Take a Pause</g><g id="7">” and “</g><g id="8">Managing Stress</g><g id="9">” resource sheets for ideas.</g></source>
+<target xml:lang="zu-ZA" state="signed-off"><g id="1">Nqanda umfula emthonjeni.</g><g id="2">Izinto ezifanayo zisenza sicindezeleke futhi sithukuthele ngaso sonke isikhathi.</g><g id="3">Yini ekwenza uthukuthele? Kwenzeka nini? Ingabe ujwayele ukusabela kanjani?</g><g id="4">Nqanda intukuthelo kwasekuqaleni. Lala noma uphumule uma ukhathele. Zama ukudla okuthile uma ulambile. Cela ukwesekwa ngothile uma uzizwa unomzwangedwa.</g><g id="5">Zinakekele. Zama amaphepha ezinsiza athi “</g><g id="6">Thatha ikhefu</g><g id="7">” nelithi “</g><g id="8">Ukulawula Ukucindezeleka</g><g id="9">” ukuthola amacebiso.</g> </target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg43_sf42_tu1"><count count-type="x-matecat-raw">80</count><count count-type="x-matecat-weighted">79</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg44">
+<group id="sg44_ssf43" resname="sub-filter:text">
+<trans-unit id="sg44_sf43_tu1" resname="text_1">
+<source xml:lang="en-US">Take care of yourself.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zinakekele.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg44_sf43_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">4</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg45">
+<group id="sg45_ssf44" resname="sub-filter:text">
+<trans-unit id="sg45_sf44_tu1" resname="text_1">
+<source xml:lang="en-US">We all need to connect. Talk to friends, family, and other support networks every day.</source>
+<target xml:lang="zu-ZA" state="signed-off">Sonke siyadinga ukuxhuma. Xoxa nabangane, umndeni, kanye namanethiwekhi okusekela nsuku zonke.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg45_sf44_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg46">
+<group id="sg46_ssf45" resname="sub-filter:text">
+<trans-unit id="sg46_sf45_tu1" resname="text_1">
+<source xml:lang="en-US">Cut back on drinking alcohol or don’t drink, especially when the kids are awake.</source>
+<target xml:lang="zu-ZA" state="signed-off">Nciphisa ukuphuza utshwala noma ungaphuzi nhlobo, ikakhulukazi uma izingane zivukile.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg46_sf45_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">14</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg47">
+<group id="sg47_ssf46" resname="sub-filter:text">
+<trans-unit id="sg47_sf46_tu1" resname="text_1">
+<source xml:lang="en-US">Do you have weapons or things that can be used to hurt others? Lock them up, hide them or take them out of the home.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ingabe unazo izikhali noma izinto ezingasetshenziswa ukulimaza abanye? Zivalele, zifihle noma zikhiphe ekhaya.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg47_sf46_tu1"><count count-type="x-matecat-raw">25</count><count count-type="x-matecat-weighted">25</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg48">
+<group id="sg48_ssf47" resname="sub-filter:text">
+<trans-unit id="sg48_sf47_tu1" resname="text_1">
+<source xml:lang="en-US">It’s ok to have your children stay somewhere safe or take them to a place where they can get help.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kulungile ukuba izingane zakho zihlale kwenye indawo ephephile noma endaweni lapho zingathola khona usizo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg48_sf47_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">20</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg49">
+<group id="sg49_ssf48" resname="sub-filter:text">
+<trans-unit id="sg49_sf48_tu1" resname="text_1">
+<source xml:lang="en-US">Take a break.</source>
+<target xml:lang="zu-ZA" state="signed-off">Thatha ikhefu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg49_sf48_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg50">
+<group id="sg50_ssf49" resname="sub-filter:text">
+<trans-unit id="sg50_sf49_tu1" resname="text_1">
+<source xml:lang="en-US">When you start feeling angry, take a 20-second cool down. Breathe in and out slowly 5 times before you speak or move.</source>
+<target xml:lang="zu-ZA" state="signed-off">Uma uqala ukuzizwa uthukuthele, yehlisa umoya imizuzwana engama-20. Donsa umoya bese uwukhipha kancane izikhathi ezinhlanu ngaphambi kokuba ukhulume noma unyakaze.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg50_sf49_tu1"><count count-type="x-matecat-raw">23</count><count count-type="x-matecat-weighted">22</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg51">
+<group id="sg51_ssf50" resname="sub-filter:text">
+<trans-unit id="sg51_sf50_tu1" resname="text_1">
+<source xml:lang="en-US">Go somewhere else for 10 minutes to regain control of your emotions. If you have safe outdoor space, go outside.</source>
+<target xml:lang="zu-ZA" state="signed-off">Hamba uye kwenye indawo imizuzu eyi-10 ukuze ukwazi ukulawula imizwa yakho. uma unendawo ephephile ngaphandle, hamba uye ngaphandle.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg51_sf50_tu1"><count count-type="x-matecat-raw">20</count><count count-type="x-matecat-weighted">20</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg52">
+<group id="sg52_ssf51" resname="sub-filter:text">
+<trans-unit id="sg52_sf51_tu1" resname="text_1">
+<source xml:lang="en-US">If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.</source>
+<target xml:lang="zu-ZA" state="signed-off">Uma ucasulwa ukuthi ingane yakho ayiyeki ukukhala, KULUNGILE ukuyishiya ilele ngomhlane endaweni ephephile, njengasembhedeni wayo, bese uhamba isikhashana. Hlola ingane yakho njalo emizuzwini engu-5-10.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg52_sf51_tu1"><count count-type="x-matecat-raw">43</count><count count-type="x-matecat-weighted">39</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg53">
+<group id="sg53_ssf52" resname="sub-filter:text">
+<trans-unit id="sg53_sf52_tu1" resname="text_1">
+<source xml:lang="en-US">The COVID-19 crisis isn’t forever – we just have to get through it now…one day at a time.</source>
+<target xml:lang="zu-ZA" state="signed-off">Inkinga ye-COVID-19 ngeke ihlale unomphela – sidinga nje ukudlula kuyo manje…usuku ngalunye ngesikhathi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg53_sf52_tu1"><count count-type="x-matecat-raw">20</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg54">
+<group id="sg54_ssf53" resname="sub-filter:text">
+<trans-unit id="sg54_sf53_tu1" resname="text_1">
+<source xml:lang="en-US">Brain science shows that if you control your anger or do something positive you increase your child’s brain development.</source>
+<target xml:lang="zu-ZA" state="signed-off">Isayensi yobuchopho ibonisa ukuthi uma ulawula intukuthelo yakho noma wenza okuthile okuhle wandisa ukukhula kwengqondo yengane yakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg54_sf53_tu1"><count count-type="x-matecat-raw">20</count><count count-type="x-matecat-weighted">19</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg55">
+<group id="sg55_ssf54" resname="sub-filter:text">
+<trans-unit id="sg55_sf54_tu1" resname="text_1">
+<source xml:lang="en-US">Be proud of yourself when you manage to do it!</source>
+<target xml:lang="zu-ZA" state="signed-off">Ziqhenye ngawe uma ukwazile ukukwenza!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg55_sf54_tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">10</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg56">
+<group id="sg56_ssf55" resname="sub-filter:text">
+</group>
+</group>
+<group id="sg57">
+<group id="sg57_ssf56" resname="sub-filter:text">
+<trans-unit id="sg57_sf56_tu1" resname="text_1">
+<source xml:lang="en-US">That’s real success!</source>
+<target xml:lang="zu-ZA" state="signed-off">Leyo yimpumelelo yangempela!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg57_sf56_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg58">
+<group id="sg58_ssf57" resname="sub-filter:text">
+<trans-unit id="sg58_sf57_tu1" resname="text_1">
+<source xml:lang="en-US">Covid-19 Parenting</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Ngesikhathi se-Covid-19</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg58_sf57_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg59">
+<group id="sg59_ssf58" resname="sub-filter:text">
+<trans-unit id="sg59_sf58_tu1" resname="text_1">
+<source xml:lang="en-US">When We Get Angry</source>
+<target xml:lang="zu-ZA" state="signed-off">Uma Sithukuthela</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg59_sf58_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">4</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg60">
+<group id="sg60_ssf59" resname="sub-filter:text">
+<trans-unit id="sg60_sf59_tu1" resname="text_1">
+<source xml:lang="en-US">tips from WHO</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-WHO</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg60_sf59_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg61">
+<group id="sg61_ssf60" resname="sub-filter:text">
+<trans-unit id="sg61_sf60_tu1" resname="text_1">
+<source xml:lang="en-US">tips from UNICEF</source>
+<target xml:lang="zu-ZA" state="signed-off"> amacebiso avela kwa-UNICEF</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg61_sf60_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg62">
+<group id="sg62_ssf61" resname="sub-filter:text">
+<trans-unit id="sg62_sf61_tu1" resname="text_1">
+<source xml:lang="en-US">other languages</source>
+<target xml:lang="zu-ZA" state="signed-off">ezinye izilimi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg62_sf61_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg63">
+<group id="sg63_ssf62" resname="sub-filter:text">
+<trans-unit id="sg63_sf62_tu1" resname="text_1">
+<source xml:lang="en-US">evidence-base</source>
+<target xml:lang="zu-ZA" state="signed-off">isisekelo sobufakazi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg63_sf62_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg64">
+<group id="sg64_ssf63" resname="sub-filter:text">
+<trans-unit id="sg64_sf63_tu1" resname="text_1">
+<source xml:lang="en-US">Partners</source>
+<target xml:lang="zu-ZA" state="signed-off">Ophathina</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg64_sf63_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg65">
+<group id="sg65_ssf64" resname="sub-filter:text">
+<trans-unit id="sg65_sf64_tu1" resname="text_1">
+<source xml:lang="en-US">Funders</source>
+<target xml:lang="zu-ZA" state="signed-off">Abaxhasi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg65_sf64_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg66">
+<group id="sg66_ssf65" resname="sub-filter:text">
+<trans-unit id="sg66_sf65_tu1" resname="text_1">
+<source xml:lang="en-US">Keeping your family healthy and safe from COVID-19 can feel even harder when you live in crowded conditions.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukugcina umndeni wakho uphilile futhi uphephile kwi-COVID-19 kungezwakala kunzima kakhulu uma uhlala ezindaweni eziminyene.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg66_sf65_tu1"><count count-type="x-matecat-raw">19</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg67">
+<group id="sg67_ssf66" resname="sub-filter:text">
+<trans-unit id="sg67_sf66_tu1" resname="text_1">
+<source xml:lang="en-US">There are things you can do to make this easier for your family.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kunezinto ongazenza ukwenza lokhu kube lula emndenini wakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg67_sf66_tu1"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg68">
+<group id="sg68_ssf67" resname="sub-filter:text">
+<trans-unit id="sg68_sf67_tu1" resname="text_1">
+<source xml:lang="en-US">For more information click below links:</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuze uthole imininingwane eyengeziwe chofoza izixhumanisi ezingezansi:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg68_sf67_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg69">
+<group id="sg69_ssf68" resname="sub-filter:text">
+<trans-unit id="sg69_sf68_tu1" resname="text_1">
+<source xml:lang="en-US">Keep using these tips</source>
+<target xml:lang="zu-ZA" state="signed-off">Qhubeka usebenzisa lamacebiso.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg69_sf68_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">4</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg70">
+<group id="sg70_ssf69" resname="sub-filter:text">
+<trans-unit id="sg70_sf69_tu1" resname="text_1">
+<source xml:lang="en-US">Help your children with physical distancing.</source>
+<target xml:lang="zu-ZA" state="signed-off">Siza izingane zakho ngokuziqhelelanisa kwabanye.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg70_sf69_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg71">
+<group id="sg71_ssf70" resname="sub-filter:text">
+<trans-unit id="sg71_sf70_tu1" resname="text_1">
+<source xml:lang="en-US">Explain to your children that they have an important job of keeping themselves and their community healthy by temporarily physically distancing from others.</source>
+<target xml:lang="zu-ZA" state="signed-off">Chazela izingane zakho ukuthi zinomsebezi obalulekile wokuzigcina zona nomphakathi wazo uphilile ngokuziqhelelanisa okwesikhashana nabanye.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg71_sf70_tu1"><count count-type="x-matecat-raw">23</count><count count-type="x-matecat-weighted">23</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg72">
+<group id="sg72_ssf71" resname="sub-filter:text">
+<trans-unit id="sg72_sf71_tu1" resname="text_1">
+<source xml:lang="en-US">Show them extra positive attention when they make an effort to practice safe physical distancing from others.</source>
+<target xml:lang="zu-ZA" state="signed-off">Babonise ukunaka okwengeziwe uma benza imizamo yokuzijwayeza ukuziqhelelanisa nabanye.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg72_sf71_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg73">
+<group id="sg73_ssf72" resname="sub-filter:text">
+<trans-unit id="sg73_sf72_tu1" resname="text_1">
+<source xml:lang="en-US">Make handwashing and hygiene fun!</source>
+<target xml:lang="zu-ZA" state="signed-off">Yenza ukugeza izandla kanye nokuhlanzeka kube mnandi!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg73_sf72_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg74">
+<group id="sg74_ssf73" resname="sub-filter:text">
+<trans-unit id="sg74_sf73_tu1" resname="text_1">
+<source xml:lang="en-US">It might be hard to find soap and water, but practicing good hygiene is more important now than ever.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kungaba nzima ukuthola insipho namanzi, kodwa ukwenza umkhuba wokuhlanzeka kubaluleke kakhulu manje kunakuqala.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg74_sf73_tu1"><count count-type="x-matecat-raw">19</count><count count-type="x-matecat-weighted">19</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg75">
+<group id="sg75_ssf74" resname="sub-filter:text">
+<trans-unit id="sg75_sf74_tu1" resname="text_1">
+<source xml:lang="en-US">Try to wash all family members’ hands as often as possible with soap and water.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zama ukugeza izandla zawo wonke amalungu omndeni kaningi ngangokunokwenzeka ngensipho namanzi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg75_sf74_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg76">
+<group id="sg76_ssf75" resname="sub-filter:text">
+<trans-unit id="sg76_sf75_tu1" resname="text_1">
+<source xml:lang="en-US">Help children teach each other how to wash their hands with soap and water.</source>
+<target xml:lang="zu-ZA" state="signed-off">Siza izingane ukuba zifundisane ukugeza izandla ngensipho namanzi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg76_sf75_tu1"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">14</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg77">
+<group id="sg77_ssf76" resname="sub-filter:text">
+<trans-unit id="sg77_sf76_tu1" resname="text_1">
+<source xml:lang="en-US">Encourage children to avoid touching their face.</source>
+<target xml:lang="zu-ZA" state="signed-off">Khuthaza izingane ukuba zigweme ukuthinta ubuso bazo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg77_sf76_tu1"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">7</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg78">
+<group id="sg78_ssf77" resname="sub-filter:text">
+<trans-unit id="sg78_sf77_tu1" resname="text_1">
+<source xml:lang="en-US">Keeping positive, having a routine and trying to get some one-to-one time with each child when you can will help you manage your children’s behaviours and your feelings.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuhlala unomqondo oqondile, ube nenqubo eqondile ejwayelekile nokuzama ukuthola isikhathi somuntu ngamunye nengane ngayinye uma ungakwazi kungakusiza ukuba ulawule indlela abaziphatha ngayo kanye nemizwa yakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg78_sf77_tu1"><count count-type="x-matecat-raw">29</count><count count-type="x-matecat-weighted">28</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg79">
+<group id="sg79_ssf78" resname="sub-filter:text">
+<trans-unit id="sg79_sf78_tu1" resname="text_1">
+<source xml:lang="en-US">Take a Pause.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yima Kancane.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg79_sf78_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg80">
+<group id="sg80_ssf79" resname="sub-filter:text">
+<trans-unit id="sg80_sf79_tu1" resname="text_1">
+<source xml:lang="en-US">You might not have space to yourself to deal with all the stress and emotions you are feeling.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kungenzeka ungabi nesikhathi sakho sokuba ubhekane nakho konke ukucindezeleka nemizwa oyizwayo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg80_sf79_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg81">
+<group id="sg81_ssf80" resname="sub-filter:text">
+<trans-unit id="sg81_sf80_tu1" resname="text_1">
+<source xml:lang="en-US">Notice when you are feeling stressed or upset and take a pause…even three deep breaths can make a difference!</source>
+<target xml:lang="zu-ZA" state="signed-off">Qaphela uma uzizwa ucindezelekile noma ucasukile bese uyema kancane…ngisho nokudonsa umoya ngokujulile kathathu kungenza umehluko!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg81_sf80_tu1"><count count-type="x-matecat-raw">20</count><count count-type="x-matecat-weighted">19</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg82">
+<group id="sg82_ssf81" resname="sub-filter:text">
+<trans-unit id="sg82_sf81_tu1" resname="text_1">
+<source xml:lang="en-US">Well done! Millions of families find that this helps.</source>
+<target xml:lang="zu-ZA" state="signed-off">Wenze kahle! Izinkulungwane zemindeni zithola ukuthi lokhu kuyazisa.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg82_sf81_tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg83">
+<group id="sg83_ssf82" resname="sub-filter:text">
+<trans-unit id="sg83_sf82_tu1" resname="text_1">
+<source xml:lang="en-US">Exercise daily.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zivocavoce zonke izinsuku.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg83_sf82_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg84">
+<group id="sg84_ssf83" resname="sub-filter:text">
+<trans-unit id="sg84_sf83_tu1" resname="text_1">
+<source xml:lang="en-US">Encourage children to think of activities they can do to exercise while avoiding contact with people who do not already live in your immediate space.</source>
+<target xml:lang="zu-ZA" state="signed-off">Khuthaza izingane ukuba zicabange ngezinto ezingazenza ukuzivocavoca ngesikhathi zigwema ukusondelana nabanye abantu abangahlali lapho zihlala khona.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg84_sf83_tu1"><count count-type="x-matecat-raw">25</count><count count-type="x-matecat-weighted">25</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg85">
+<group id="sg85_ssf84" resname="sub-filter:text">
+<trans-unit id="sg85_sf84_tu1" resname="text_1">
+<source xml:lang="en-US">Jumping activities, dancing or running in circles can be fun!</source>
+<target xml:lang="zu-ZA" state="signed-off">Imidlalo yokugxuma, ukudansa noma ukugijima benze indilinga ingaba mnandi!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg85_sf84_tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">10</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg86">
+<group id="sg86_ssf85" resname="sub-filter:text">
+<trans-unit id="sg86_sf85_tu1" resname="text_1">
+<source xml:lang="en-US">Share the load.</source>
+<target xml:lang="zu-ZA" state="signed-off">Thwalisanani umthwalo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg86_sf85_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg87">
+<group id="sg87_ssf86" resname="sub-filter:text">
+<trans-unit id="sg87_sf86_tu1" resname="text_1">
+<source xml:lang="en-US">Looking after children and other family members is difficult in cramped spaces, but it’s much easier when responsibilities are shared.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukunakekela izingane kanye namanye amalungu omndeni kungaba nzima ezindaweni eziminyene, kodwa kuba lula uma kwabelanwa ngemithwalo yemfanelo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg87_sf86_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">20</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg88">
+<group id="sg88_ssf87" resname="sub-filter:text">
+<trans-unit id="sg88_sf87_tu1" resname="text_1">
+<source xml:lang="en-US">Try to share household chores, childcare, and other tasks equally amongst family members.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zama ukwaba imisebenzi yasendlini, ukunakekela izingane, kanye neminye imisebenzi ngokulingana phakathi kwamalungu omndeni.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg88_sf87_tu1"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg89">
+<group id="sg89_ssf88" resname="sub-filter:text">
+<trans-unit id="sg89_sf88_tu1" resname="text_1">
+<source xml:lang="en-US">Create a schedule for time “on” and time “off” with other adults in your household.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yenza isimiso sesikhathi "sokungena" nesikhathi "sokuphuma" nabanye abantu abadala ekhaya lakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg89_sf88_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg90">
+<group id="sg90_ssf89" resname="sub-filter:text">
+<trans-unit id="sg90_sf89_tu1" resname="text_1">
+<source xml:lang="en-US">It is okay to ask for help when you are feeling tired or stressed so that you can take a break.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kulungile ukucela usizo uma uzizwa ukhathele noma ucindezelekile ukuze ukuthathe ikhefu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg90_sf89_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">21</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg91">
+<group id="sg91_ssf90" resname="sub-filter:text">
+<trans-unit id="sg91_sf90_tu1" resname="text_1">
+<source xml:lang="en-US">tips from WHO</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-WHO</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg91_sf90_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg92">
+<group id="sg92_ssf91" resname="sub-filter:text">
+<trans-unit id="sg92_sf91_tu1" resname="text_1">
+<source xml:lang="en-US">tips from UNICEF</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-UNICEF</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg92_sf91_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg93">
+<group id="sg93_ssf92" resname="sub-filter:text">
+<trans-unit id="sg93_sf92_tu1" resname="text_1">
+<source xml:lang="en-US">other languages</source>
+<target xml:lang="zu-ZA" state="signed-off">ezinye izilimi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg93_sf92_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg94">
+<group id="sg94_ssf93" resname="sub-filter:text">
+<trans-unit id="sg94_sf93_tu1" resname="text_1">
+<source xml:lang="en-US">evidence-base</source>
+<target xml:lang="zu-ZA" state="signed-off">Isisekelo sobufakazi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg94_sf93_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg95">
+<group id="sg95_ssf94" resname="sub-filter:text">
+<trans-unit id="sg95_sf94_tu1" resname="text_1">
+<source xml:lang="en-US">Covid-19 Parenting</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Ngesikhathi se-COVID-19</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg95_sf94_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg96">
+<group id="sg96_ssf95" resname="sub-filter:text">
+<trans-unit id="sg96_sf95_tu1" resname="text_1">
+<source xml:lang="en-US">Parenting in Crowded Homes and Communities</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Emakhaya Nasemiphakathini Eminyene</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg96_sf95_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg97">
+<group id="sg97_ssf96" resname="sub-filter:text">
+<trans-unit id="sg97_sf96_tu1" resname="text_1">
+<source xml:lang="en-US">Keep staying safe.</source>
+<target xml:lang="zu-ZA" state="signed-off">Qhubeka nokuzinakekela.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg97_sf96_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg98">
+<group id="sg98_ssf97" resname="sub-filter:text">
+<trans-unit id="sg98_sf97_tu1" resname="text_1">
+<source xml:lang="en-US">Limit those leaving and returning to your immediate living space to as few and as infrequent as possible.</source>
+<target xml:lang="zu-ZA" state="signed-off">Nciphisa labo abahamba babuye kwakho ngenani eliphansi futhi kungenzeki njalo ngangokunokwenzeka.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg98_sf97_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg99">
+<group id="sg99_ssf98" resname="sub-filter:text">
+<trans-unit id="sg99_sf98_tu1" resname="text_1">
+<source xml:lang="en-US">Know the COVID-19 rules about what you can and can’t do in your area.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yazi imithetho ye-Covid-19 ngongakwenza nongeke ukwenze endaweni yakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg99_sf98_tu1"><count count-type="x-matecat-raw">16</count><count count-type="x-matecat-weighted">14</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg100">
+<group id="sg100_ssf99" resname="sub-filter:text">
+<trans-unit id="sg100_sf99_tu1" resname="text_1">
+<source xml:lang="en-US">Partners</source>
+<target xml:lang="zu-ZA" state="signed-off">Ophathina</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg100_sf99_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg101">
+<group id="sg101_ssf100" resname="sub-filter:text">
+<trans-unit id="sg101_sf100_tu1" resname="text_1">
+<source xml:lang="en-US">Funders</source>
+<target xml:lang="zu-ZA" state="signed-off">Abaxhasi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg101_sf100_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg102">
+<group id="sg102_ssf101" resname="sub-filter:text">
+<trans-unit id="sg102_sf101_tu1" resname="text_1">
+<source xml:lang="en-US">Share with colleagues, friends and family | Spread the word | Keep children safe online.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yabelana nosebenza nabo, abangane nomndeni | Tshela abanye | Gcina izingane ziphephile ku-inthanethi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg102_sf101_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg103">
+<group id="sg103_ssf102" resname="sub-filter:text">
+<trans-unit id="sg103_sf102_tu1" resname="text_1">
+<source xml:lang="en-US">Keep your child safe with open communication.</source>
+<target xml:lang="zu-ZA" state="signed-off">Gcina ingane yakho iphephile ngokukhulumisana ngokukhululekile.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg103_sf102_tu1"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">7</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg104">
+<group id="sg104_ssf103" resname="sub-filter:text">
+<trans-unit id="sg104_sf103_tu1" resname="text_1">
+<source xml:lang="en-US">Tell your children that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.</source>
+<target xml:lang="zu-ZA" state="signed-off">Tshela izingane zakho ukuthi uma zihlangabezana nokuthile ku-inthanethi okubenza bacasuke, bangakhululeki, noma besabe, bangakhuluma nawe futhi ngeke uthukuthele noma ubajezise.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg104_sf103_tu1"><count count-type="x-matecat-raw">31</count><count count-type="x-matecat-weighted">31</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg105">
+<group id="sg105_ssf104" resname="sub-filter:text">
+<trans-unit id="sg105_sf104_tu1" resname="text_1">
+<source xml:lang="en-US">Be alert to signs of distress. Notice if your child is being withdrawn, upset, secretive, or obsessed with online activities.</source>
+<target xml:lang="zu-ZA" state="signed-off">Qaphela izimpawu zokucindezeleka. Qaphela uma ingane yakho ihoxile, idumele, inezimfihlo, noma ikhathazeke kakhulu ngezinto ezenziwa ku-inthanethi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg105_sf104_tu1"><count count-type="x-matecat-raw">20</count><count count-type="x-matecat-weighted">20</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg106">
+<group id="sg106_ssf105" resname="sub-filter:text">
+<trans-unit id="sg106_sf105_tu1" resname="text_1">
+<source xml:lang="en-US">Create trusting relationships and open communication through positive support and encouragement.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yakha ubudlelwano bokwethembana nokukhulumisana okukhululekile ngokweseka okuhle nokukhuthaza.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg106_sf105_tu1"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">11</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg107">
+<group id="sg107_ssf106" resname="sub-filter:text">
+<trans-unit id="sg107_sf106_tu1" resname="text_1">
+<source xml:lang="en-US">Note that every child is unique and may use different ways to communicate.Take time to adjust your message for your child’s needs.</source>
+<target xml:lang="zu-ZA" state="signed-off">Qaphela ukuthi zonke izingane zihlukile futhi zingasebenzisa izindlela zokukhulumisana ezihlukile. Thatha isikhathi ukulungisa umlayezo wakho ngokwezidingo zengane yakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg107_sf106_tu1"><count count-type="x-matecat-raw">24</count><count count-type="x-matecat-weighted">23</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg108">
+<group id="sg108_ssf107" resname="sub-filter:text">
+<trans-unit id="sg108_sf107_tu1" resname="text_1">
+<source xml:lang="en-US">For example, children with learning disabilities, may require information in simple formats.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ngokwesibonelo, izingane ezinenkinga yokufunda, zingadinga ulwazi olwenziwe lwaba lula.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg108_sf107_tu1"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">12</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg109">
+<group id="sg109_ssf108" resname="sub-filter:text">
+<trans-unit id="sg109_sf108_tu1" resname="text_1">
+<source xml:lang="en-US">Children and teens are now spending a lot more time online. Being connected helps them reduce the impact of COVID-19 and encourages them to continue with their lives… but it also presents risks and dangers.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izingane nentsha manje sezichitha isikhathi esiningi ku-inthanethi. Ukuxhuma kubasiza ukuba banciphise umthelela we-Covid-19 futhi kubakhuthaza ukuba baqhubeke nezimpilo zabo... kodwa futhi kuphinde kuveze izingozi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg109_sf108_tu1"><count count-type="x-matecat-raw">36</count><count count-type="x-matecat-weighted">35</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg110">
+<group id="sg110_ssf109" resname="sub-filter:text">
+<trans-unit id="sg110_sf109_tu1" resname="text_1">
+<source xml:lang="en-US">Cyberbullying from peers and strangers.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuxhashazwa nge-inthaneti ontanga nabantu abangabazi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg110_sf109_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg111">
+<group id="sg111_ssf110" resname="sub-filter:text">
+<trans-unit id="sg111_sf110_tu2" resname="text_1" restype="x-title">
+<source xml:lang="en-US">Hyperlink 10</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 10</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg111_sf110_tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg111_sf110_tu1" resname="text_2">
+<source xml:lang="en-US"><g id="1">Spend time with your child or teen online.</g><g id="2">Explore websites, social media, games, and apps together.</g><g id="3">Talk to your teen on how to report inappropriate content (see below).</g><g id="4">Common Sense Media</g><g id="5">has great advice for apps, games and entertainment for different ages.</g></source>
+<target xml:lang="zu-ZA" state="signed-off"><g id="1">Chitha isikhathi nengane noma osemusha wakho ku-inthanethi.</g><g id="2">Hlolani ndawonye izingosi, izinkundla zokuxhumana, imidlalo, kanye nama-app.</g><g id="3">Xoxa nosemusha wakho ngokuthi angabika kanjani okuqukethwe okungalungile (bheka ngezansi).</g><g id="4">Umqondo Wezinkundla Zokuxhumana</g><g id="5">unezeluleko ezinhle ngama-apps, imidlalo kanye nokokuzijabulisa kwabantu beminyaka ehlukene.</g> </target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg111_sf110_tu1"><count count-type="x-matecat-raw">42</count><count count-type="x-matecat-weighted">41</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg112">
+<group id="sg112_ssf111" resname="sub-filter:text">
+<trans-unit id="sg112_sf111_tu1" resname="text_1">
+<source xml:lang="en-US">Report online violence against children:</source>
+<target xml:lang="zu-ZA" state="signed-off">Bika udlame olwenziwa ezinganeni nge-inthanethi:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg112_sf111_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg113">
+<group id="sg113_ssf112" resname="sub-filter:text">
+<trans-unit id="sg113_sf112_tu1" resname="text_1">
+<source xml:lang="en-US">Other resources:</source>
+<target xml:lang="zu-ZA" state="signed-off">Ezinye izinsiza:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg113_sf112_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg114">
+<group id="sg114_ssf113" resname="sub-filter:text">
+<trans-unit id="sg114_sf113_tu1" resname="text_1">
+<source xml:lang="en-US">Online Risks.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izingozi Eziku-Inthanethi.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg114_sf113_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg115">
+<group id="sg115_ssf114" resname="sub-filter:text">
+<trans-unit id="sg115_sf114_tu1" resname="text_1">
+<source xml:lang="en-US">Adults targeting children for sexual purposes on social media, gaming, and messaging platforms.</source>
+<target xml:lang="zu-ZA" state="signed-off">Abantu abadala abafunana nezingane ngezinjongo zocansi ezinkundleni zokuxhumana, kwezemidlalo, kanye nasezinkundleni zemiyalezo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg115_sf114_tu1"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg116">
+<group id="sg116_ssf115" resname="sub-filter:text">
+<trans-unit id="sg116_sf115_tu1" resname="text_1">
+<source xml:lang="en-US">Harmful content – violence, misogyny, xenophobia, inciting suicide and self-harm, misinformation, pornography etc.</source>
+<target xml:lang="zu-ZA" state="signed-off">Okuqukethwe okuyingozi - udlame, inzondo ebhekiswe kubantu besifazane, ukucwaswa kwabokufika, ukukhuthaza ukuzibulala kanye nokuzilimaza, ulwazi olungelina iqiniso, izithombe zocansi njll.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg116_sf115_tu1"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg117">
+<group id="sg117_ssf116" resname="sub-filter:text">
+<trans-unit id="sg117_sf116_tu1" resname="text_1">
+<source xml:lang="en-US">Teens sharing personal information and sexual photos or videos of themselves.</source>
+<target xml:lang="zu-ZA" state="signed-off">Intsha yabelana ngemininingwane yabo yomuntu siqu kanye nezithombe zocansi noma amavidiyo ayo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg117_sf116_tu1"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">11</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg118">
+<group id="sg118_ssf117" resname="sub-filter:text">
+<trans-unit id="sg118_sf117_tu1" resname="text_1">
+<source xml:lang="en-US">Child Helpline</source>
+<target xml:lang="zu-ZA" state="signed-off">Inombolo Yocingo Yosizo Lwezingane</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg118_sf117_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg119">
+<group id="sg119_ssf118" resname="sub-filter:text">
+<trans-unit id="sg119_sf118_tu1" resname="text_1">
+<source xml:lang="en-US">INHOPE Hotlines</source>
+<target xml:lang="zu-ZA" state="signed-off">Izinombolo Zocingo ze-INHOPE</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg119_sf118_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg120">
+<group id="sg120_ssf119" resname="sub-filter:text">
+<trans-unit id="sg120_sf119_tu1" resname="text_1">
+<source xml:lang="en-US">IWF portals</source>
+<target xml:lang="zu-ZA" state="signed-off">Izingosi ze-IWF</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg120_sf119_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg121">
+<group id="sg121_ssf120" resname="sub-filter:text">
+<trans-unit id="sg121_sf120_tu1" resname="text_1">
+<source xml:lang="en-US">safety booklet</source>
+<target xml:lang="zu-ZA" state="signed-off">incwajana yezokuphepha</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg121_sf120_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg122">
+<group id="sg122_ssf121" resname="sub-filter:text">
+<trans-unit id="sg122_sf121_tu1" resname="text_1">
+<source xml:lang="en-US">unicef</source>
+<target xml:lang="zu-ZA" state="signed-off">i-unicef</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg122_sf121_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg123">
+<group id="sg123_ssf122" resname="sub-filter:text">
+<trans-unit id="sg123_sf122_tu1" resname="text_1">
+<source xml:lang="en-US">other languages</source>
+<target xml:lang="zu-ZA" state="signed-off">ezinye izilimi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg123_sf122_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg124">
+<group id="sg124_ssf123" resname="sub-filter:text">
+<trans-unit id="sg124_sf123_tu1" resname="text_1">
+<source xml:lang="en-US">evidence-base</source>
+<target xml:lang="zu-ZA" state="signed-off">Isisekelo sobufakazi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg124_sf123_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg125">
+<group id="sg125_ssf124" resname="sub-filter:text">
+<trans-unit id="sg125_sf124_tu1" resname="text_1">
+<source xml:lang="en-US">Keeping Children Safe Online</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukugcina Abantwana Bephephile Ku-Inthanethi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg125_sf124_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">4</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg126">
+<group id="sg126_ssf125" resname="sub-filter:text">
+<trans-unit id="sg126_sf125_tu1" resname="text_1">
+<source xml:lang="en-US">Covid-19 Parenting</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Ngesikhathi se-COVID-19</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg126_sf125_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg127">
+<group id="sg127_ssf126" resname="sub-filter:text">
+<trans-unit id="sg127_sf126_tu2" resname="text_1" restype="x-title">
+<source xml:lang="en-US">Hyperlink 8</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 8</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg127_sf126_tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg127_sf126_tu3" resname="text_2" restype="x-title">
+<source xml:lang="en-US">Hyperlink 9</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 9</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg127_sf126_tu3"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg127_sf126_tu1" resname="text_3">
+<source xml:lang="en-US"><g id="1">Create healthy and safe online habits.</g><g id="2">Involve your</g><g id="3">child</g><g id="4">or</g><g id="5">teen</g><g id="6">in creating family tech agreements about healthy device use.</g><g id="7">Create device-free spaces and times in your house (eating, playing, schoolwork, and sleeping).</g><g id="8">Help your child learn how to keep personal information private, especially from strangers – some people are not who they say they are!</g><g id="9">Remind your children that what goes online stays online (messages, photos, and videos).</g><g id="10">Actively supervise children’s time online, including computers, smartphones, and tablets.</g></source>
+<target xml:lang="zu-ZA" state="signed-off"><g id="1">Yakha imikhuba enempilo nephephile ye-inthanethi.</g><g id="2">Hilela ingane</g><g id="3">yakho</g><g id="4">noma</g><g id="5">osemusha</g><g id="6">ekwakheni izivumelwano zobuchwepheshe bomndeni ngokusebenzisa izinsiza-kuxhumana ngokunempilo.</g><g id="7">Yenza izikhala nezikhathi ezingenazo izinsiza-kuxhumana ekhaya lakho (zokudla, zokudlala, zomsebenzi wesikole, kanye nezokulala).</g><g id="8">Siza ingane yakho ifunde ukugcina imininingwane yomuntu siqu iyimfihlo, ikakhulukazi kubantu engabazi – abanye abantu abakona lokho abathi bayikho!</g><g id="9">Khumbuza izingane zakho ukuthi okufakwa ku-inthanethi kuhlala kugcineke ku-inthanethi (imiyalezo, izithombe, kanye namavidiyo).</g><g id="10">Qikelela ukuthi ugada isikhathi sezingane ku-inthanethi, kuhlanganise amakhompyutha, amafoni anobuchwepheshe, kanye namatheblethi.</g> </target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg127_sf126_tu1"><count count-type="x-matecat-raw">79</count><count count-type="x-matecat-weighted">74</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg128">
+<group id="sg128_ssf127" resname="sub-filter:text">
+<trans-unit id="sg128_sf127_tu2" resname="text_1" restype="x-title">
+<source xml:lang="en-US">Hyperlink 5</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 5</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg128_sf127_tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg128_sf127_tu3" resname="text_2" restype="x-title">
+<source xml:lang="en-US">Hyperlink 6</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 6</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg128_sf127_tu3"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg128_sf127_tu4" resname="text_3" restype="x-title">
+<source xml:lang="en-US">Hyperlink 7</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 7</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg128_sf127_tu4"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg128_sf127_tu1" resname="text_4">
+<source xml:lang="en-US"><g id="1">Tech fixes to protect your children online.</g><g id="2">Set up</g><g id="3">parental controls</g><g id="4">.</g><g id="5">Turn on</g><g id="6">SafeSearch</g><g id="7">on your browser.</g><g id="8">Set up strict</g><g id="9">privacy settings</g><g id="10">on online apps and games.</g><g id="11">Cover webcams when not in use.</g></source>
+<target xml:lang="zu-ZA" state="signed-off"><g id="1">Ukulungiswa kobuchwepheshe ukuze usize ukuvikela abantwana bakho ku-inthanethi.</g><g id="2">Setha</g><g id="3">izilawuli zabazali</g><g id="4">.</g><g id="5">Vula</g><g id="6">Sesha Ngokuphephile</g><g id="7">esipheqululini sakho.</g><g id="8">Setha amasethingi obumfihlo</g><g id="9">aqinile</g><g id="10">kuma-apps nemidlalo ye-inthanethi.</g><g id="11">Mboza amakhamera ekhompyutha uma ungawasebenzisi.</g> </target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg128_sf127_tu1"><count count-type="x-matecat-raw">33</count><count count-type="x-matecat-weighted">28</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg129">
+<group id="sg129_ssf128" resname="sub-filter:text">
+<trans-unit id="sg129_sf128_tu1" resname="text_1">
+<source xml:lang="en-US">Partners</source>
+<target xml:lang="zu-ZA" state="signed-off">Ophathina</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg129_sf128_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg130">
+<group id="sg130_ssf129" resname="sub-filter:text">
+<trans-unit id="sg130_sf129_tu1" resname="text_1">
+<source xml:lang="en-US">Funders</source>
+<target xml:lang="zu-ZA" state="signed-off">Abaxhasi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg130_sf129_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg131">
+<group id="sg131_ssf130" resname="sub-filter:text">
+<trans-unit id="sg131_sf130_tu1" resname="text_1">
+<source xml:lang="en-US">Well done! Millions of families find that this helps.</source>
+<target xml:lang="zu-ZA" state="signed-off">Wenze kahle! Izigidi zemindeni zithola ukuthi lokhu kuyasiza.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg131_sf130_tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">2.7</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg132">
+<group id="sg132_ssf131" resname="sub-filter:text">
+<trans-unit id="sg132_sf131_tu1" resname="text_1">
+<source xml:lang="en-US">Millions are stressed about money because of COVID-19. It can make us feel exhausted, angry, and distracted.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izigidi zikhathazeke ngemali ngenxa ye-COVID-19. Kungasenza sizizwe sikhathele, sithukuthele, futhi siphazamisekile.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg132_sf131_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg133">
+<group id="sg133_ssf132" resname="sub-filter:text">
+<trans-unit id="sg133_sf132_tu1" resname="text_1">
+<source xml:lang="en-US">Children or teenagers asking for things can cause arguments. It can help them a lot when we involve them with family budgeting.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izingane noma intsha ecela izinto ingabangela izingxabano. Kungazisiza kakhulu uma sizihilela ezinhlelweni zomndeni zesabelomali.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg133_sf132_tu1"><count count-type="x-matecat-raw">22</count><count count-type="x-matecat-weighted">22</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg134">
+<group id="sg134_ssf133" resname="sub-filter:text">
+<trans-unit id="sg134_sf133_tu1" resname="text_1">
+<source xml:lang="en-US">For more information click below links:</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuthola imininingwane eyengeziwe chofoza izixhumanisi ezingezansi:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg134_sf133_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg135">
+<group id="sg135_ssf134" resname="sub-filter:text">
+<trans-unit id="sg135_sf134_tu1" resname="text_1">
+<source xml:lang="en-US">What do we spend now?</source>
+<target xml:lang="zu-ZA" state="signed-off">Yini esiyisebenzisayo manje?</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg135_sf134_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg136">
+<group id="sg136_ssf135" resname="sub-filter:text">
+<trans-unit id="sg136_sf135_tu1" resname="text_1">
+<source xml:lang="en-US">Get a piece of paper (or old newspaper or a cardboard box) and a pen.</source>
+<target xml:lang="zu-ZA" state="signed-off">Thola isiqeshana sephepha (noma iphephandaba elidala noma ikhadibhodi) kanye nepeni.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg136_sf135_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg137">
+<group id="sg137_ssf136" resname="sub-filter:text">
+<trans-unit id="sg137_sf136_tu1" resname="text_1">
+<source xml:lang="en-US">Draw pictures of all the things that you and your family spend money on each month.</source>
+<target xml:lang="zu-ZA" state="signed-off">Dweba izithombe zazo zonke izinto wena nomndeni wakho enichitha imali kuzo ngenyanga.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg137_sf136_tu1"><count count-type="x-matecat-raw">16</count><count count-type="x-matecat-weighted">16</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg138">
+<group id="sg138_ssf137" resname="sub-filter:text">
+<trans-unit id="sg138_sf137_tu1" resname="text_1">
+<source xml:lang="en-US">Write next to each picture how much each thing costs.</source>
+<target xml:lang="zu-ZA" state="signed-off">Bhala eceleni kwesithombe ngasinye ukuthi into ngayinye ibiza malini.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg138_sf137_tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">10</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg139">
+<group id="sg139_ssf138" resname="sub-filter:text">
+<trans-unit id="sg139_sf138_tu1" resname="text_1">
+<source xml:lang="en-US">Add up how much money you have to spend each month.</source>
+<target xml:lang="zu-ZA" state="signed-off">Hlanganisa inani lemali enilisebenzisayo ngenyanga.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg139_sf138_tu1"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">11</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg140">
+<group id="sg140_ssf139" resname="sub-filter:text">
+<trans-unit id="sg140_sf139_tu1" resname="text_1">
+<source xml:lang="en-US">Build your own budget.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zakhele uhlelo lokusebenzisa imali.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg140_sf139_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">4</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg141">
+<group id="sg141_ssf140" resname="sub-filter:text">
+<trans-unit id="sg141_sf140_tu1" resname="text_1">
+<source xml:lang="en-US">Find a bag of stones or anything with lots of bits. This is your money for the month.</source>
+<target xml:lang="zu-ZA" state="signed-off">Thola isikhwama samatshe noma okuthile okunezingcezu eziningi. Lokhu yimali yakho yenyanga.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg141_sf140_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg142">
+<group id="sg142_ssf141" resname="sub-filter:text">
+<trans-unit id="sg142_sf141_tu1" resname="text_1">
+<source xml:lang="en-US">As a family, decide what you will spend on what, and put the stones on your picture.</source>
+<target xml:lang="zu-ZA" state="signed-off">Njengomndeni, vumelanani ukuthi yikuphi enizokusebenzisa kuphi, bese nibeka amatshe esithombeni senu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg142_sf141_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg143">
+<group id="sg143_ssf142" resname="sub-filter:text">
+<trans-unit id="sg143_sf142_tu1" resname="text_1">
+<source xml:lang="en-US">If you can save even a tiny amount for the future, or for an emergency – it is great.</source>
+<target xml:lang="zu-ZA" state="signed-off">Uma ungakwazi ukonga ngisho noma okuncane kwekusasa, noma kwezimo eziphuthumayo - kuhle lokho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg143_sf142_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">19</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg144">
+<group id="sg144_ssf143" resname="sub-filter:text">
+<trans-unit id="sg144_sf143_tu1" resname="text_1">
+<source xml:lang="en-US">Talk about needs and wants.</source>
+<target xml:lang="zu-ZA" state="signed-off">Khulumani ngezidingo kanye nezimfuno.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg144_sf143_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg145">
+<group id="sg145_ssf144" resname="sub-filter:text">
+<trans-unit id="sg145_sf144_tu1" resname="text_1">
+<source xml:lang="en-US">Needs: Which things are important or must haves for your family to survive? (like food, soap to wash hands, needs for ill or disabled family members).</source>
+<target xml:lang="zu-ZA" state="signed-off">Izidingo: Yiziphi izinto ezibalulekile noma okumele nibe nazo ukuze umndeni wakho uphile? (njengokudla, insipho yokugeza izandla, izidingo zamalungu omndeni agulayo noma akhubazekile).</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg145_sf144_tu1"><count count-type="x-matecat-raw">26</count><count count-type="x-matecat-weighted">26</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg146">
+<group id="sg146_ssf145" resname="sub-filter:text">
+<trans-unit id="sg146_sf145_tu1" resname="text_1">
+<source xml:lang="en-US">Wants: Which things are nice to have but not essential?</source>
+<target xml:lang="zu-ZA" state="signed-off">Izimfuno: Yiziphi izinto okuhle ukuba nazo kodwa ezingabalulekile?</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg146_sf145_tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">10</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg147">
+<group id="sg147_ssf146" resname="sub-filter:text">
+<trans-unit id="sg147_sf146_tu1" resname="text_1">
+<source xml:lang="en-US">Discuss with your children what things you could try to spend less on as a family.</source>
+<target xml:lang="zu-ZA" state="signed-off">Xoxa nezingane zakho ukuthi yiziphi izinto eningazama ukusebenzisa imali encane kuzo njengomndeni.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg147_sf146_tu1"><count count-type="x-matecat-raw">16</count><count count-type="x-matecat-weighted">16</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg148">
+<group id="sg148_ssf147" resname="sub-filter:text">
+<trans-unit id="sg148_sf147_tu1" resname="text_1">
+<source xml:lang="en-US">A budget is how we decide what we will spend our money on, even in stressful times.</source>
+<target xml:lang="zu-ZA" state="signed-off">Isabelomali yindlela esinquma ukuthi sizoyisebenziselani imali yethu, nangezikhathi ezinzima.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg148_sf147_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg149">
+<group id="sg149_ssf148" resname="sub-filter:text">
+<trans-unit id="sg149_sf148_tu1" resname="text_1">
+<source xml:lang="en-US">Making a budget together helps children understand that we all need to make hard decisions in difficult times.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukwenza isabelomali ndawonye kusiza izingane ukuba ziqonde ukuthi sonke kumele sithathe izinqumo ezinzima ngezikhathi ezinzima.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg149_sf148_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">18</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg150">
+<group id="sg150_ssf149" resname="sub-filter:text">
+<trans-unit id="sg150_sf149_tu1" resname="text_1">
+<source xml:lang="en-US">It also helps families to have enough at the end of the month, and borrow less.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kubuye kusize imindeni ukuba ibe nokwanele ekupheleni kwenyanga, futhi baboleke kancane.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg150_sf149_tu1"><count count-type="x-matecat-raw">16</count><count count-type="x-matecat-weighted">16</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg151">
+<group id="sg151_ssf150" resname="sub-filter:text">
+<trans-unit id="sg151_sf150_tu1" resname="text_1">
+<source xml:lang="en-US">Your government may be giving money, or food parcels to families during COVID-19.</source>
+<target xml:lang="zu-ZA" state="signed-off">Uhulumeni wakho kungenzeka ukuba uphana ngemali, noma amaphasela okudla emindenini ngesikhathi se-COVID-19.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg151_sf150_tu1"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg152">
+<group id="sg152_ssf151" resname="sub-filter:text">
+<trans-unit id="sg152_sf151_tu1" resname="text_1">
+<source xml:lang="en-US">Ask about whether places in your community are giving support.</source>
+<target xml:lang="zu-ZA" state="signed-off">Buza ukuthi ingabe izindawo emphakathini wakho ziyanikeza yini ukweseka.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg152_sf151_tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">10</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg153">
+<group id="sg153_ssf152" resname="sub-filter:text">
+<trans-unit id="sg153_sf152_tu1" resname="text_1">
+<source xml:lang="en-US">There may be help you can get.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kungaba nosizo ongaluthola.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg153_sf152_tu1"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">7</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg154">
+<group id="sg154_ssf153" resname="sub-filter:text">
+<trans-unit id="sg154_sf153_tu1" resname="text_1">
+<source xml:lang="en-US">Involve children and teens in making a family budget.</source>
+<target xml:lang="zu-ZA" state="signed-off">Hilela izingane nentsha ekwenzeni isabelomali somndeni.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg154_sf153_tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg155">
+<group id="sg155_ssf154" resname="sub-filter:text">
+<trans-unit id="sg155_sf154_tu1" resname="text_1">
+<source xml:lang="en-US">tips from WHO</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-WHO</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg155_sf154_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg156">
+<group id="sg156_ssf155" resname="sub-filter:text">
+<trans-unit id="sg156_sf155_tu1" resname="text_1">
+<source xml:lang="en-US">tips from UNICEF</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-UNICEF</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg156_sf155_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg157">
+<group id="sg157_ssf156" resname="sub-filter:text">
+<trans-unit id="sg157_sf156_tu1" resname="text_1">
+<source xml:lang="en-US">other languages</source>
+<target xml:lang="zu-ZA" state="signed-off">ezinye izilimi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg157_sf156_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg158">
+<group id="sg158_ssf157" resname="sub-filter:text">
+<trans-unit id="sg158_sf157_tu1" resname="text_1">
+<source xml:lang="en-US">evidence-base</source>
+<target xml:lang="zu-ZA" state="signed-off">Isisekelo sobufakazi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg158_sf157_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg159">
+<group id="sg159_ssf158" resname="sub-filter:text">
+<trans-unit id="sg159_sf158_tu1" resname="text_1">
+<source xml:lang="en-US">Family Budgeting in Times of Financial Stress</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukwenza Isabelomali Somndeni Ezikhathini Zobunzima Bezimali</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg159_sf158_tu1"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">7</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg160">
+<group id="sg160_ssf159" resname="sub-filter:text">
+<trans-unit id="sg160_sf159_tu1" resname="text_1">
+<source xml:lang="en-US">Covid-19 Parenting</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Ngesikhathi se-COVID-19</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg160_sf159_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg161">
+<group id="sg161_ssf160" resname="sub-filter:text">
+<trans-unit id="sg161_sf160_tu1" resname="text_1">
+<source xml:lang="en-US">Partners</source>
+<target xml:lang="zu-ZA" state="signed-off">Ophathina</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg161_sf160_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg162">
+<group id="sg162_ssf161" resname="sub-filter:text">
+<trans-unit id="sg162_sf161_tu1" resname="text_1">
+<source xml:lang="en-US">Funders</source>
+<target xml:lang="zu-ZA" state="signed-off">Abaxhasi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg162_sf161_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg163">
+<group id="sg163_ssf162" resname="sub-filter:text">
+<trans-unit id="sg163_sf162_tu2" resname="text_1" restype="x-title">
+<source xml:lang="en-US">Hyperlink 85</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 85</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg163_sf162_tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg163_sf162_tu1" resname="text_2">
+<source xml:lang="en-US"><g id="1">Click</g><g id="2">HERE</g><g id="3">for useful resources and support if you are experiencing violence at home</g></source>
+<target xml:lang="zu-ZA" state="signed-off"><g id="1">Chofoza</g><g id="2">LAPHA</g><g id="3">ukuze uthole izinsiza nosizo uma uhlangabezana nodlame ekhaya</g> </target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg163_sf162_tu1"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">12</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg164">
+<group id="sg164_ssf163" resname="sub-filter:text">
+<trans-unit id="sg164_sf163_tu1" resname="text_1">
+<source xml:lang="en-US">When we model peaceful and loving relationships, our children feel more secure and loved.</source>
+<target xml:lang="zu-ZA" state="signed-off">Uma siveza ubudlelwano obunokuthula nobunothando, izingane zethu zizizwa zivikelekile futhi zithandwa kakhudlwana.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg164_sf163_tu1"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">14</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg165">
+<group id="sg165_ssf164" resname="sub-filter:text">
+<trans-unit id="sg165_sf164_tu1" resname="text_1">
+<source xml:lang="en-US">Positive language, active listening, and empathy help maintain a peaceful and happy family environment under stressful times.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ulimi olwakhayo, ukulalelisisa, kanye nozwela kusiza ukugcina ukuthula nenjabulo esimweni somndeni ngezikhathi ezinzima.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg165_sf164_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg166">
+<group id="sg166_ssf165" resname="sub-filter:text">
+<trans-unit id="sg166_sf165_tu1" resname="text_1">
+<source xml:lang="en-US">Use positive language. It works!</source>
+<target xml:lang="zu-ZA" state="signed-off">Sebenzisa ulimi olwakhayo! Luyasebenza!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg166_sf165_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg167">
+<group id="sg167_ssf166" resname="sub-filter:text">
+<trans-unit id="sg167_sf166_tu1" resname="text_1">
+<source xml:lang="en-US">Tell others what you want them to do instead of what you don’t want them to do: Instead of “Stop shouting,” try “Please speak more quietly”.</source>
+<target xml:lang="zu-ZA" state="signed-off">Tshela abanye ukuthi ufuna benzeni kunokuba ubatshele lokho ongafuni bakwenze: Esikhundleni sokuthi "Yeka ukumemeza," zama ukuthi "Ngicela ukhulumele phansi."</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg167_sf166_tu1"><count count-type="x-matecat-raw">27</count><count count-type="x-matecat-weighted">26</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg168">
+<group id="sg168_ssf167" resname="sub-filter:text">
+<trans-unit id="sg168_sf167_tu1" resname="text_1">
+<source xml:lang="en-US">Praise others to make them feel appreciated and good about themselves. Simple words like, “Thank you for clearing the dinner,” or “Thank you for watching the baby” can make a big difference.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ncoma abanye ukuze ubenze bazizwe bethokozelwa futhi bazizwe kahle ngabo ngokwabo. Amagama alula afana nokuthi, "Ngiyabonga ngokuqoqa ngemva kwesidlo sasebusuku," noma "Ngiyabonga ngokugada ingane" angenza umehluko omkhulu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg168_sf167_tu1"><count count-type="x-matecat-raw">32</count><count count-type="x-matecat-weighted">32</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg169">
+<group id="sg169_ssf168" resname="sub-filter:text">
+<trans-unit id="sg169_sf168_tu1" resname="text_1">
+<source xml:lang="en-US">Share the load.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yabelana ngomthwalo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg169_sf168_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg170">
+<group id="sg170_ssf169" resname="sub-filter:text">
+<trans-unit id="sg170_sf169_tu1" resname="text_1">
+<source xml:lang="en-US">Looking after children and other family members is difficult, but it’s much easier when responsibilities are shared.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukunakekela abantwana kanye namanye amalungu omndeni kunzima, kodwa kuba lula uma imisebenzi ihlanganyelwa.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg170_sf169_tu1"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg171">
+<group id="sg171_ssf170" resname="sub-filter:text">
+<trans-unit id="sg171_sf170_tu1" resname="text_1">
+<source xml:lang="en-US">Try to share household chores, childcare, and other tasks equally amongst family members.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zamani ukwaba imisebenzi yasekhaya, ukunakekela izingane, kanye neminye imisebenzi ngokulinganayo phakathi kwamalungu omndeni.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg171_sf170_tu1"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">3.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg172">
+<group id="sg172_ssf171" resname="sub-filter:text">
+<trans-unit id="sg172_sf171_tu1" resname="text_1">
+<source xml:lang="en-US">Create a schedule for time “on” and time “off” with other adults in your household.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yakha isimiso sesikhathi "sokungena" nesikhathi "sokuphuma" nabanye abantu abadala ekhaya lakho.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg172_sf171_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">4.5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg173">
+<group id="sg173_ssf172" resname="sub-filter:text">
+<trans-unit id="sg173_sf172_tu1" resname="text_1">
+<source xml:lang="en-US">It is okay to ask for help when you are feeling tired or stressed so that you can take a break.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kulungile ukucela usizo uma uzizwa ukhathele noma ucindezelekile ukuze uthathe ikhefu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg173_sf172_tu1"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">6.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg174">
+<group id="sg174_ssf173" resname="sub-filter:text">
+<trans-unit id="sg174_sf173_tu2" resname="text_1" restype="x-title">
+<source xml:lang="en-US">Hyperlink 3</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 3</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg174_sf173_tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg174_sf173_tu3" resname="text_2" restype="x-title">
+<source xml:lang="en-US">Hyperlink 4</source>
+<target xml:lang="zu-ZA" state="signed-off">Isixhumanisi 4</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg174_sf173_tu3"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+<trans-unit id="sg174_sf173_tu1" resname="text_3">
+<source xml:lang="en-US"><g id="1">Feeling stressed or angry?</g><g id="2">Give yourself a 10-second pause. Breathe in and out slowly five times. Then try to respond in a calmer way. Millions of parents say this helps - A LOT.</g><g id="3">Decide to take a break from arguing when you see arguments building up, and go into another room or outside if you can.</g><g id="4">See Tip Sheets on “</g><g id="5">When We Get Angry</g><g id="6">” and “</g><g id="7">Keep Calm and Manage Stress</g><g id="8">”.</g></source>
+<target xml:lang="zu-ZA" state="signed-off"><g id="1">Uzizwa ucindezelekile noma uthukuthele?</g><g id="2">Zinike ikhefu lemizuzwana engu-10. Donsa umoya bese uyawukhipha kancane kahlanu. Bese uzama ukuphendula ngendlela ezolile. Izigidi zabazali zithi lokhu kuyasiza - KAKHULU.</g><g id="3">Khetha ukuthatha ikhefu ezingxabanweni uma ubona izingxabano zakheka, bese uya kwelinye igumbi noma phandle uma ukwazi.</g><g id="4">Bheka Iphepha Lamacebiso ku- “</g><g id="5">Lapho Sithukuthela</g><g id="6">” kanye ne- “</g><g id="7">Zola futhi Ulawule Ukucindezeleka</g><g id="8">”.</g> </target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg174_sf173_tu1"><count count-type="x-matecat-raw">71</count><count count-type="x-matecat-weighted">68</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg175">
+<group id="sg175_ssf174" resname="sub-filter:text">
+<trans-unit id="sg175_sf174_tu1" resname="text_1">
+<source xml:lang="en-US">Nice things to do together as a family.</source>
+<target xml:lang="zu-ZA" state="signed-off">Izinto ezinhle eningazenza ndawonye njengomndeni.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg175_sf174_tu1"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg176">
+<group id="sg176_ssf175" resname="sub-filter:text">
+<trans-unit id="sg176_sf175_tu1" resname="text_1">
+<source xml:lang="en-US">Let each family member take turns choosing a whole family activity each day.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ilungu ngalinye lomndeni malishintshane ngokukhetha umsebenzi womndeni wonke usuku ngalunye.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg176_sf175_tu1"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">13</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg177">
+<group id="sg177_ssf176" resname="sub-filter:text">
+<trans-unit id="sg177_sf176_tu1" resname="text_1">
+<source xml:lang="en-US">Find ways to spend quality time alone with your partner and other adults in your home, too!</source>
+<target xml:lang="zu-ZA" state="signed-off">Thola izindlela zokuchitha isikhathi esizuzisayo nophathina wakho nabanye abantu abadala emndenini wakho, futhi!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg177_sf176_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg178">
+<group id="sg178_ssf177" resname="sub-filter:text">
+<trans-unit id="sg178_sf177_tu1" resname="text_1">
+<source xml:lang="en-US">Be an empathetic active listener.</source>
+<target xml:lang="zu-ZA" state="signed-off">Yiba yisislaleli esilalelisayo esinozwela.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg178_sf177_tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">5</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg179">
+<group id="sg179_ssf178" resname="sub-filter:text">
+<trans-unit id="sg179_sf178_tu1" resname="text_1">
+<source xml:lang="en-US">Listen to others when they are talking with you.</source>
+<target xml:lang="zu-ZA" state="signed-off">Lalela abanye uma bekhuluma nawe.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg179_sf178_tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg180">
+<group id="sg180_ssf179" resname="sub-filter:text">
+<trans-unit id="sg180_sf179_tu1" resname="text_1">
+<source xml:lang="en-US">Be open and show them that you hear what they are saying.</source>
+<target xml:lang="zu-ZA" state="signed-off">Vuleleka futhi ubabonise ukuthi uyakuzwa abakushoyo.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg180_sf179_tu1"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">12</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg181">
+<group id="sg181_ssf180" resname="sub-filter:text">
+<trans-unit id="sg181_sf180_tu1" resname="text_1">
+<source xml:lang="en-US">It can help to summarise what you have heard before responding: “What I hear you saying is…”.</source>
+<target xml:lang="zu-ZA" state="signed-off">Kungasiza ukufingqa okuzwile ngaphambi kokuba uphendule: "Engikuzwa ukusho ukuthi...".</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg181_sf180_tu1"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">17</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg182">
+<group id="sg182_ssf181" resname="sub-filter:text">
+<trans-unit id="sg182_sf181_tu1" resname="text_1">
+<source xml:lang="en-US">For more information click below links:</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuthola imininingwane eyengeziwe chofoza izixhumanisi ezingezansi:</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg182_sf181_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg183">
+<group id="sg183_ssf182" resname="sub-filter:text">
+<trans-unit id="sg183_sf182_tu1" resname="text_1">
+<source xml:lang="en-US">We are models for our kids.</source>
+<target xml:lang="zu-ZA" state="signed-off">Siyizibonelo ezinganeni zethu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg183_sf182_tu1"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg184">
+<group id="sg184_ssf183" resname="sub-filter:text">
+<trans-unit id="sg184_sf183_tu1" resname="text_1">
+<source xml:lang="en-US">How we talk and behave in front of our children is a big influence on how they behave too!</source>
+<target xml:lang="zu-ZA" state="signed-off">Indlela esikhuluma nesiziphatha ngayo phambi kwezingane zethu inomthelela omkhulu endleleni abaziphatha ngayo nabo!</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg184_sf183_tu1"><count count-type="x-matecat-raw">19</count><count count-type="x-matecat-weighted">19</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg185">
+<group id="sg185_ssf184" resname="sub-filter:text">
+<trans-unit id="sg185_sf184_tu1" resname="text_1">
+<source xml:lang="en-US">Try to talk kindly to everyone in the family, adults and children.</source>
+<target xml:lang="zu-ZA" state="signed-off">Zama ukukhuluma ngomusa kuwo wonke umuntu emndenini, abantu abadala kanye nezingane.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg185_sf184_tu1"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">12</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg186">
+<group id="sg186_ssf185" resname="sub-filter:text">
+<trans-unit id="sg186_sf185_tu1" resname="text_1">
+<source xml:lang="en-US">Bad communication between adults in the household can have a negative impact on our children.</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukukhulumisana okongalungile phakathi kwabantu abadala ekhaya kungaba nomthelela omubi ezinganeni zethu.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg186_sf185_tu1"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">15</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg187">
+<group id="sg187_ssf186" resname="sub-filter:text">
+<trans-unit id="sg187_sf186_tu1" resname="text_1">
+<source xml:lang="en-US">The more we practice modeling peaceful, loving relationships for our children, the more secure and loved they will feel.</source>
+<target xml:lang="zu-ZA" state="signed-off">Uma sizijwayeza ngokwengeziwe ukubonisa ubudlelwano obunokuthula, nothando ezinganeni zethu, ziyozizwa zivikeleke kakhulu futhi zithandwa.</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg187_sf186_tu1"><count count-type="x-matecat-raw">19</count><count count-type="x-matecat-weighted">19</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg188">
+<group id="sg188_ssf187" resname="sub-filter:text">
+<trans-unit id="sg188_sf187_tu1" resname="text_1">
+<source xml:lang="en-US">Family Harmony at Home</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuvumelana Komndeni Ekhaya</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg188_sf187_tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">4</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg189">
+<group id="sg189_ssf188" resname="sub-filter:text">
+<trans-unit id="sg189_sf188_tu1" resname="text_1">
+<source xml:lang="en-US">Covid-19 Parenting</source>
+<target xml:lang="zu-ZA" state="signed-off">Ukuba Ngumzali Ngesikhathi se-COVID-19</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg189_sf188_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg190">
+<group id="sg190_ssf189" resname="sub-filter:text">
+<trans-unit id="sg190_sf189_tu1" resname="text_1">
+<source xml:lang="en-US">tips from WHO</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-WHO</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg190_sf189_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg191">
+<group id="sg191_ssf190" resname="sub-filter:text">
+<trans-unit id="sg191_sf190_tu1" resname="text_1">
+<source xml:lang="en-US">tips from UNICEF</source>
+<target xml:lang="zu-ZA" state="signed-off">amacebiso avela kwa-UNICEF</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg191_sf190_tu1"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg192">
+<group id="sg192_ssf191" resname="sub-filter:text">
+<trans-unit id="sg192_sf191_tu1" resname="text_1">
+<source xml:lang="en-US">other languages</source>
+<target xml:lang="zu-ZA" state="signed-off">ezinye izilimi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg192_sf191_tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg193">
+<group id="sg193_ssf192" resname="sub-filter:text">
+<trans-unit id="sg193_sf192_tu1" resname="text_1">
+<source xml:lang="en-US">evidence-base</source>
+<target xml:lang="zu-ZA" state="signed-off">Isisekelo sobufakazi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg193_sf192_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg194">
+<group id="sg194_ssf193" resname="sub-filter:text">
+<trans-unit id="sg194_sf193_tu1" resname="text_1">
+<source xml:lang="en-US">Partners</source>
+<target xml:lang="zu-ZA" state="signed-off">Ophathina</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg194_sf193_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+<group id="sg195">
+<group id="sg195_ssf194" resname="sub-filter:text">
+<trans-unit id="sg195_sf194_tu1" resname="text_1">
+<source xml:lang="en-US">Funders</source>
+<target xml:lang="zu-ZA" state="signed-off">Abaxhasi</target>
+<group mtc:name="x-matecat-word-count"><count-group name="sg195_sf194_tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group></group>
+<note annotates="source" from="note"></note>
+</trans-unit>
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>
